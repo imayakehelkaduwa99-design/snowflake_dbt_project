@@ -1,0 +1,25 @@
+{{ config(materialized="table") }}
+
+with txn as (
+    select 
+        customer_id,
+        count(*) as total_transactions,
+        sum(quantity) as total_units_purchased,
+        sum(gross_revenue) as total_spend,
+        avg(transaction_rating) as avg_rating,
+        min(transaction_date) as first_purchase_date,
+        max(transaction_date) as last_purchase_date
+    from {{ ref('fct_transactions') }}
+    group by customer_id
+)
+
+select
+    c.*,
+    t.total_transactions,
+    t.total_units_purchased,
+    t.total_spend,
+    t.avg_rating,
+    t.first_purchase_date,
+    t.last_purchase_date
+from {{ ref('dim_customers') }} c
+left join txn t using (customer_id)
