@@ -1,0 +1,10 @@
+{{ config(materialized='table') }}
+
+select
+    date_trunc('month', try_to_date(TRANSACTION_DATE,'DD/MM/YYYY')) as MONTH,
+    sum(NET_REVENUE) as TOTAL_REVENUE,
+    count(distinct CUSTOMER_ID) as ACTIVE_CUSTOMERS,
+    avg(NET_REVENUE) as AVG_ORDER_VALUE
+from {{ ref('fct_transactions') }}
+group by 1
+order by 1
