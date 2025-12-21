@@ -1,0 +1,25 @@
+{{ config(materialized='table') }}
+
+with monthly_revenue as (
+    select
+        date_trunc('month', to_date(TRANSACTION_DATE, 'DD/MM/YYYY')) as MONTH,
+        sum(NET_REVENUE) as total_revenue
+    from PROJECT1_ANALYTICS.dbt_ikehelkaduwa.fct_transactions
+    group by 1
+),
+
+mom as (
+    select
+        m1.MONTH,
+        m1.total_revenue,
+        m2.total_revenue as prev_month_revenue,
+        (m1.total_revenue - m2.total_revenue) as revenue_change,
+        ((m1.total_revenue - m2.total_revenue) / nullif(m2.total_revenue,0)) as mom_growth_rate
+    from monthly_revenue m1
+    left join monthly_revenue m2
+        on m2.MONTH = dateadd('month', -1, m1.MONTH)
+)
+
+select *
+from mom
+order by MONTH
