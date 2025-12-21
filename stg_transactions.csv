@@ -1,0 +1,1001 @@
+CUSTOMER_ID,TRANSACTION_ID,TRANSACTION_DATE,PRODUCT_SKU,PRODUCT_DESCRIPTION,PRODUCT_CATEGORY,QUANTITY,AVG_PRICE,DELIVERY_CHARGES,COUPON_STATUS,COUPON_CODE,DISCOUNT_PCT,PAYMENT_METHOD,SHIPPING_PROVIDER,TRANSACTION_RATING
+14135,35901,17/08/2024,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,1,1.11,6,Used,EXTRA20,20,Credit Card,Australia Post Express,3
+17027,42360,11/01/2024,GGOEGAAJ032613,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,2,3.8,6,Used,SALE20,20,Cash,Australia Post Express,3
+12383,32617,13/07/2024,GGOEGAAB033814,Google Men's Vintage Badge Tee Black,Apparel,1,7.6,6,Not Used,no,0,PayPal,StarTrack Express,3
+13069,35133,8/09/2024,GGOEGAAJ057016,Google Men's Short Sleeve Performance Badge Tee Charcoal,Apparel,3,13.2,6,Used,SALE20,20,Credit Card,Australia Post Express,2
+13004,43067,11/10/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,20,2.39,49.73,Used,OFF20,20,PayPal,Toll Priority,3
+13081,34194,31/07/2024,GGOEGATB060614,Google Women's Convertible Vest-Jacket Black,Apparel,1,23.76,6,Used,SALE10,10,Credit Card,Australia Post Courier,3
+14217,46253,12/09/2024,GGOEGOAQ012899,Ballpoint LED Light Pen,Office,2,2.55,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+13767,29394,6/01/2024,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,6,1.59,6,Used,EXTRA30,30,PayPal,StarTrack Express,3
+15723,26468,26/04/2024,GGOEGOBC078699,Google Luggage Tag,Fun,1,8.99,6,Used,ELEC10,10,Credit Card,StarTrack Express,4
+14952,24416,29/03/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC30,30,Venmo,Australia Post Courier,3
+14911,19768,2/06/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Not Used,no,0,PayPal,Australia Post Express,5
+15464,33641,25/07/2024,GGOEGPJC203399,Crunch Noise Dog Toy,Lifestyle,2,2.79,16.47,Used,EXTRA10,10,Debit Card,Toll Priority,3
+14472,34993,8/08/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Used,ELEC20,20,Venmo,Australia Post Express,5
+17602,38948,25/09/2024,GGOEGAXR065129,Google Toddler Short Sleeve Tee Red,Apparel,1,13.59,6,Used,SALE30,30,Credit Card,Australia Post Courier,1
+15570,27214,5/04/2024,GGOEGALQ036614,Google Women's Scoop Neck Tee White,Apparel,1,11.19,6,Not Used,no,0,Venmo,Australia Post Express,2
+18202,46106,12/08/2024,GGOENEBQ086799,Nest Thermostat E - USA,Nest,1,100.91,6.5,Used,NE30,30,Venmo,Australia Post Express,4
+14657,38094,13/09/2024,GGOEGOAQ020099,Four Color Retractable Pen,Office,30,2.39,6.5,Used,OFF30,30,Credit Card,Australia Post Courier,3
+13798,26955,5/01/2024,GGOEAAAB081015,Android Men's Outerstellar Short Sleeve Tee Black,Apparel,1,15.99,6,Used,SALE20,20,Credit Card,Australia Post Courier,1
+16655,36254,22/08/2024,GGOEGOLC014299,Google Metallic Notebook Set,Office,4,4.79,6.5,Not Used,no,0,Credit Card,Australia Post Express,3
+17114,34999,8/08/2024,GGOEGAAB033815,Google Men's Vintage Badge Tee Black,Apparel,1,7.6,6,Used,SALE20,20,PayPal,Australia Post Courier,3
+17954,37305,9/03/2024,GGOEADWQ015699,Android Rise 14 oz Mug,Drinkware,1,12.99,20,Used,EXTRA30,30,Credit Card,Toll Priority,4
+13089,44756,27/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,Credit Card,Australia Post Express,5
+17890,28367,19/05/2024,GGOEGHGC019799,Google Sunglasses,Lifestyle,1,3.5,6,Used,EXTRA20,20,Credit Card,Australia Post Courier,3
+17841,32964,17/07/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC10,10,Credit Card,Australia Post Courier,5
+17337,46915,14/12/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,355.74,19.99,Not Used,no,0,Credit Card,Toll Priority,4
+14549,46146,12/08/2024,GGOEGAEH090615,Google Tee Green,Apparel,1,17.93,6.5,Used,SALE30,30,Credit Card,StarTrack Express,4
+14911,38224,15/09/2024,GGOEGAEJ028016,Google Women's Short Sleeve Hero Tee Grey,Apparel,1,4.08,6,Not Used,no,0,Credit Card,Australia Post Express,3
+12668,31650,30/06/2024,GGOEGPJC203399,Crunch Noise Dog Toy,Lifestyle,1,3.99,12.99,Not Used,no,0,Credit Card,CouriersPlease,2
+14606,29119,30/05/2024,GGOEGAAJ032713,Google Men's Long & Lean Tee Grey,Apparel,6,13.99,6,Used,SALE20,20,Venmo,StarTrack Express,3
+14606,28915,25/05/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC20,20,Venmo,Australia Post Courier,5
+12754,47763,21/12/2024,GGOEGAEB091114,Google Zip Hoodie Black,Apparel,1,48.92,12.99,Not Used,no,0,Credit Card,CouriersPlease,1
+15039,35588,14/08/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,2,199,6,Not Used,no,0,Credit Card,Australia Post Express,3
+17850,18764,24/01/2024,GGOEAKDH019899,Windup Android,Lifestyle,1,4.12,6.5,Not Used,no,0,Cash,StarTrack Express,4
+15570,27223,5/04/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,Credit Card,StarTrack Express,4
+13694,30953,21/06/2024,GGOEGOCR017899,Recycled Paper Journal Set,Office,6,3.19,24.37,Used,OFF30,30,Credit Card,Toll Priority,4
+13240,25565,14/04/2024,GGOEGAAQ010413,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,1,13.59,6.5,Used,SALE10,10,PayPal,Australia Post Express,1
+15555,26084,20/04/2024,GGOENEBB081499,Nest Cam Indoor Security Camera - CA,Nest-Canada,3,149,8.7,Used,NCA10,10,PayPal,Australia Post Express,1
+15311,16751,1/02/2024,GGOENEBB081499,Nest Cam Indoor Security Camera - CA,Nest-Canada,2,153.71,8.7,Used,NCA10,10,PayPal,Australia Post Express,2
+15601,30732,19/06/2024,GGOEAAYC068724,Android Youth Short Sleeve T-shirt Aqua,Apparel,1,15.19,6,Not Used,no,0,Credit Card,Australia Post Courier,1
+12501,34566,8/03/2024,GGOEYAYR068624,YouTube Youth Short Sleeve Tee Red,Apparel,1,15.19,12.99,Not Used,no,0,Credit Card,CouriersPlease,2
+14037,26550,27/04/2024,GGOEGAPJ058013,Google Women's 1/4 Zip Jacket Charcoal,Apparel,1,87.99,6,Used,SALE10,10,PayPal,StarTrack Express,1
+13089,44762,27/11/2024,GGOEGAEL091313,Google Crew Sweater Navy,Apparel,1,41.59,14.41,Used,SALE20,20,Debit Card,CouriersPlease,2
+15858,23917,23/03/2024,GGOEWFKA083099,Waze Mood Happy Window Decal,Waze,1,1.59,6.5,Not Used,no,0,Credit Card,Australia Post Courier,3
+15271,33787,26/07/2024,GGOEYAYR068626,YouTube Youth Short Sleeve Tee Red,Apparel,1,15.19,12.91,Used,SALE10,10,PayPal,CouriersPlease,2
+14466,18668,23/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used,ELEC10,10,Credit Card,Australia Post Courier,3
+12682,46280,12/09/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,6.5,Not Used,no,0,Credit Card,Australia Post Express,5
+15919,22172,3/06/2024,GGOEYHPB072210,YouTube Twill Cap,Apparel,1,10.99,6.5,Used,SALE30,30,Credit Card,Australia Post Courier,2
+16725,20022,2/09/2024,GGOEGDHB072099,Google Insulated Stainless Steel Bottle,Drinkware,4,15.99,28.78,Used,EXTRA20,20,Debit Card,Toll Priority,2
+13869,31445,28/06/2024,GGOEGAAB033815,Google Men's Vintage Badge Tee Black,Apparel,1,10.63,12.48,Used,SALE30,30,Credit Card,CouriersPlease,2
+16497,41853,27/10/2024,GGOEGAUC057716,Google Women's Performance Golf Polo Blue,Apparel,2,14.5,6,Not Used,no,0,PayPal,StarTrack Express,1
+16782,25417,4/12/2024,GGOEGDHC082299,Google 25 oz Blue Stainless Steel Bottle,Drinkware,2,11.19,6,Used,EXTRA10,10,Credit Card,Australia Post Courier,2
+18219,21973,3/04/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6.5,Not Used,no,0,Credit Card,Australia Post Courier,4
+17463,44653,26/11/2024,GGOENEBQ092399,Nest Cam IQ Outdoor - USA (Preorder),Nest,1,279,6.5,Not Used,no,0,PayPal,Australia Post Express,3
+13093,36390,23/08/2024,GGOEYAAJ033014,YouTube Men's Long & Lean Tee Charcoal,Apparel,1,8,6,Used,SALE20,20,PayPal,Australia Post Courier,2
+15034,32405,7/11/2024,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,8,1.11,6,Used,EXTRA10,10,Credit Card,Australia Post Courier,2
+15547,43827,18/11/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2,79,6,Used,ELEC20,20,Venmo,Australia Post Express,3
+15034,32406,7/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Not Used,no,0,PayPal,Australia Post Express,5
+14549,46132,12/08/2024,GGOEGAAJ032816,Google Men's Long & Lean Tee Charcoal,Apparel,1,4.89,6.5,Used,SALE30,30,Credit Card,StarTrack Express,2
+17913,31617,30/06/2024,GGOEGHGC019799,Google Sunglasses,Lifestyle,8,2.8,6.5,Used,EXTRA30,30,PayPal,StarTrack Express,3
+13050,28588,21/05/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,3,119,12.99,Used,ELEC20,20,Credit Card,CouriersPlease,4
+13093,17735,1/12/2024,GGOEAKDH019899,Windup Android,Lifestyle,2,4.12,6.5,Not Used,no,0,Credit Card,Australia Post Courier,4
+17017,29364,6/01/2024,GGOEGOLC014299,Google Metallic Notebook Set,Office,85,4.79,21.29,Used,OFF30,30,Credit Card,Toll Priority,3
+15358,25336,4/11/2024,GGOEYAAQ031715,YouTube Men's Short Sleeve Hero Tee White,Apparel,1,16.99,6.5,Used,SALE10,10,Credit Card,StarTrack Express,2
+13680,33072,18/07/2024,GGOEWEBB082699,Waze Mobile Phone Vent Mount,Waze,1,5.59,6,Used,WEMP10,10,Debit Card,StarTrack Express,3
+12393,35887,17/08/2024,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,1,1.11,6,Used,EXTRA20,20,PayPal,Australia Post Express,4
+13468,17752,1/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Not Used,no,0,PayPal,Australia Post Courier,5
+17580,45234,30/11/2024,GGOEGAEC090715,Google Tee Blue,Apparel,1,17.59,6.5,Used,SALE20,20,Credit Card,Australia Post Express,1
+16550,22806,14/03/2024,GGOEAAAC080915,Android Lifted Men's Short Sleeve Tee Blue,Apparel,1,15.99,6.5,Not Used,no,0,Credit Card,StarTrack Express,2
+16241,33156,19/07/2024,GGOEGAFJ036215,Google Men's Pullover Hoodie Grey,Apparel,3,29.11,12.91,Not Used,no,0,Venmo,CouriersPlease,3
+16905,19433,2/01/2024,GGOEGBRJ037399,Google Rucksack,Bags,2,55.99,6.5,Not Used,no,0,PayPal,StarTrack Express,4
+15601,41260,20/10/2024,GGOEGADB056718,Men's Softshell Jacket Black/Grey,Apparel,1,79.19,6,Used,SALE10,10,PayPal,Australia Post Express,2
+13694,36680,26/08/2024,GGOEGAAH034017,Google Men's Vintage Badge Tee Sage,Apparel,1,4.56,6,Not Used,no,0,Credit Card,Australia Post Express,1
+17223,22923,15/03/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6.5,Not Used,no,0,PayPal,Australia Post Courier,5
+12731,44854,27/11/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,3,119,6.5,Not Used,no,0,Credit Card,Australia Post Express,3
+14606,32897,17/07/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,5,79,6,Used,ELEC10,10,PayPal,Australia Post Express,5
+13506,20587,16/02/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,Credit Card,StarTrack Express,5
+15460,32342,7/11/2024,GGOEA0CH077599,Android Hard Cover Journal,Notebooks & Journals,6,11.99,12.91,Used,NJ10,10,Credit Card,CouriersPlease,1
+17338,36505,24/08/2024,GGOEGAXQ067129,Google Toddler Short Sleeve Tee White,Apparel,1,13.59,6,Used,SALE20,20,Credit Card,Australia Post Express,1
+14062,39322,28/09/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,2,199,6,Used,NE30,30,PayPal,StarTrack Express,2
+12681,33417,22/07/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,5,79,19.99,Not Used,no,0,PayPal,Toll Priority,3
+12868,36596,25/08/2024,GGOEGAAJ059116,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1,8.8,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+15033,37192,9/01/2024,GGOEGHGH019699,Google Sunglasses,Lifestyle,2,3.5,6,Not Used,no,0,Credit Card,Australia Post Express,3
+13102,29241,31/05/2024,GGOEGGCX056299,Gift Card - $25.00,Gift Cards,1,25,0,Used,GC20,20,PayPal,Australia Post Free Parcel,3
+12481,34431,8/02/2024,GGOEADWQ015699,Android Rise 14 oz Mug,Drinkware,1,10.39,6,Not Used,no,0,Cash,Australia Post Express,4
+15601,43421,14/11/2024,GGOEGAWR061849,Google Infant Short Sleeve Tee Red,Apparel,1,13.59,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+13764,34074,30/07/2024,GGOEGAAJ032814,Google Men's Long & Lean Tee Charcoal,Apparel,1,4.8,6,Used,SALE10,10,Credit Card,Australia Post Courier,5
+13208,47651,20/12/2024,GGOEGAPL087999,Google Snapback Navy Cap,Headgear,1,16.3,6.5,Not Used,no,0,Credit Card,Australia Post Express,3
+13634,37524,9/06/2024,GGOEGOLC014299,Google Metallic Notebook Set,Office,4,5.99,6,Used,OFF30,30,Credit Card,StarTrack Express,4
+14085,28161,16/05/2024,GGOEGAXJ065529,Google Toddler Short Sleeve T-shirt Grey,Apparel,1,9.51,6,Used,SALE20,20,Credit Card,Australia Post Courier,1
+13093,17734,1/12/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,122.77,6.5,Used,ELEC10,10,PayPal,Australia Post Courier,3
+16719,22247,3/07/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC30,30,Credit Card,Australia Post Courier,3
+13089,22861,14/03/2024,GGOEYAEB035614,YouTube Men's Vintage Tank,Apparel,1,20.99,6.5,Used,SALE30,30,Credit Card,Australia Post Courier,3
+16725,43487,15/11/2024,GGOEAFKA087499,Android Small Removable Sticker Sheet,Accessories,1,2.99,6,Used,ACC20,20,PayPal,Australia Post Courier,4
+17954,19805,2/06/2024,GGOEGBJC019999,Collapsible Shopping Bag,Bags,15,3.99,18.47,Used,AIO20,20,Credit Card,Toll Priority,3
+15046,33572,24/07/2024,GGOEGDWR015799,Red Shine 15 oz Mug,Drinkware,1,10.39,6,Not Used,no,0,Credit Card,StarTrack Express,4
+14298,41136,19/10/2024,GGOEGADC059517,Google Men's Microfiber 1/4 Zip Pullover Blue/Indigo,Apparel,2,37.49,6,Used,SALE10,10,Credit Card,Australia Post Express,1
+16735,35139,8/09/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,Venmo,Australia Post Express,4
+13767,35765,16/08/2024,GGOEGFKA022299,Keyboard DOT Sticker,Office,1,1.2,6,Not Used,no,0,PayPal,Australia Post Express,4
+15498,39392,29/09/2024,GGOEGALQ036616,Google Women's Scoop Neck Tee White,Apparel,6,4.8,23.01,Used,SALE30,30,Credit Card,Toll Priority,3
+14307,38829,23/09/2024,GGOEGBMJ013399,Sport Bag,Bags,1,3.99,6,Not Used,no,0,PayPal,Australia Post Courier,2
+17231,28271,17/05/2024,GGOEGAAJ032816,Google Men's Long & Lean Tee Charcoal,Apparel,1,11.19,6,Used,SALE20,20,Debit Card,Australia Post Express,2
+14565,28142,16/05/2024,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,3,2.39,6,Not Used,no,0,PayPal,Australia Post Courier,3
+17507,47599,19/12/2024,GGOEAAEB091717,Android Tone Hoodie Black,Apparel,1,61.15,6,Not Used,no,0,PayPal,StarTrack Express,2
+17191,22960,15/03/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,5,79,6.5,Not Used,no,0,Venmo,Australia Post Express,3
+15727,30117,6/11/2024,GGOEGFSR022099,Google Kick Ball,Lifestyle,1,1.99,6,Not Used,no,0,Credit Card,Australia Post Express,3
+14083,19585,2/03/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,3
+15464,33641,25/07/2024,GGOEGOCB078299,Google Leather Journal-Black,Notebooks & Journals,5,13.2,16.47,Not Used,no,0,Debit Card,Toll Priority,1
+14415,29160,30/05/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6,Used,ELEC20,20,Credit Card,Australia Post Express,5
+17406,35725,15/08/2024,GGOEGAYT068524,Google Youth Short Sleeve T-shirt Yellow,Apparel,1,7.6,6,Used,SALE20,20,Credit Card,StarTrack Express,3
+12557,35944,17/08/2024,GGOEGAAQ010415,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,1,16.99,6,Used,SALE20,20,PayPal,Australia Post Express,2
+17580,45233,30/11/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3,79,6.5,Used,ELEC20,20,PayPal,StarTrack Express,2
+16923,44239,22/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,Credit Card,StarTrack Express,4
+14051,32240,7/10/2024,GGOEGAYB068025,Google Youth Baseball Raglan Heather/Black,Apparel,1,24.99,6,Used,SALE10,10,Credit Card,Australia Post Courier,2
+15808,33178,19/07/2024,GGOEGOAA017199,Rubber Grip Ballpoint Pen 4 Pack,Office,2,2.79,6.5,Used,OFF10,10,Debit Card,Australia Post Express,3
+16210,17270,1/06/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,81.5,6.5,Not Used,no,0,Debit Card,Australia Post Express,3
+17191,22994,16/03/2024,GGOEGAAB010515,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1,16.99,6.5,Not Used,no,0,PayPal,Australia Post Express,4
+13963,48157,26/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,6.5,Not Used,no,0,Cash,StarTrack Express,5
+14800,20292,13/02/2024,GGOEYAYR068656,YouTube Youth Short Sleeve Tee Red,Apparel,1,18.99,6.5,Used,SALE20,20,PayPal,Australia Post Express,2
+13408,30245,6/12/2024,GGOEYAYR068624,YouTube Youth Short Sleeve Tee Red,Apparel,1,15.19,6,Used,SALE30,30,PayPal,Australia Post Express,3
+17277,39657,10/03/2024,GGOEGOXQ016399,Badge Holder,Office,50,1.99,6,Not Used,no,0,Debit Card,Australia Post Express,4
+17950,25951,19/04/2024,GGOEGAFB035814,Google Men's  Zip Hoodie,Apparel,1,44.79,12.48,Used,SALE10,10,Credit Card,CouriersPlease,3
+12748,21880,3/04/2024,GGOEGOBC078699,Google Luggage Tag,Fun,6,7.19,6.5,Used,ELEC10,10,Credit Card,StarTrack Express,3
+17091,23381,19/03/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,1.99,75,Used,OFF30,30,PayPal,Toll Priority,5
+17381,47925,22/12/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,5,121.3,6.5,Used,ELEC30,30,Credit Card,Australia Post Express,4
+17059,20687,17/02/2024,GGOENEBB079399,Nest Protect Smoke + CO Black Wired Alarm-USA,Nest-USA,3,79,6.5,Used,ELEC20,20,Credit Card,Australia Post Express,2
+17062,30488,15/06/2024,GGOEGAEJ035317,Google Vintage Henley Grey/Black,Apparel,1,23.99,6,Used,SALE30,30,Credit Card,StarTrack Express,3
+18077,41092,18/10/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,199,6,Used,ELEC10,10,Debit Card,StarTrack Express,4
+13649,24989,4/07/2024,GGOEGBJR018199,Reusable Shopping Bag,Bags,1,2.8,6.5,Not Used,no,0,PayPal,Australia Post Express,2
+13137,47908,22/12/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1,80.52,6.5,Not Used,no,0,PayPal,Australia Post Courier,3
+17337,46952,15/12/2024,GGOEGDHH087299,Google Thermal Bottle Green,Drinkware,6,19.56,12.91,Used,EXTRA30,30,Credit Card,CouriersPlease,4
+14769,38585,20/09/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1,79,6,Used,ELEC30,30,Credit Card,Australia Post Courier,4
+16442,28662,22/05/2024,GGOEGFKA022299,Keyboard DOT Sticker,Office,1,1.2,51.99,Used,OFF20,20,Credit Card,Toll Priority,3
+12748,23242,18/03/2024,GGOEGOXQ016399,Badge Holder,Office,25,1.99,6.5,Not Used,no,0,Credit Card,Australia Post Courier,3
+17402,21550,28/02/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6.5,Not Used,no,0,PayPal,Australia Post Courier,4
+13615,41024,18/10/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC10,10,Credit Card,Australia Post Express,5
+17146,30474,15/06/2024,GGOEGAAQ010415,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,15,13.59,48.59,Not Used,no,0,Credit Card,Toll Priority,3
+14307,17022,1/04/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,153.71,6.5,Used,ELEC10,10,PayPal,StarTrack Express,4
+18077,24257,28/03/2024,GGOEGOAA017099,Ballpoint Stick Pen 4 Pack,Office,25,3.19,22.71,Used,OFF30,30,Cash,Toll Priority,4
+13280,34299,8/01/2024,GGOEGAEJ028015,Google Women's Short Sleeve Hero Tee Grey,Apparel,1,5.1,6,Used,SALE20,20,PayPal,Australia Post Express,2
+18118,20511,15/02/2024,GGOEGOAB015899,Rainbow Stylus Pen,Office,24,1.5,6.5,Not Used,no,0,PayPal,Australia Post Courier,1
+15298,24920,4/06/2024,GGOEGBCR024399,Google Lunch Bag,Bags,1,11.19,6.5,Used,AIO10,10,Credit Card,Australia Post Courier,2
+12916,39927,10/05/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,Credit Card,Australia Post Courier,2
+14701,43032,11/09/2024,GGOENEBD084799,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1,149,19.99,Used,ELEC20,20,PayPal,Toll Priority,2
+16686,31790,7/04/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6,Used,ELEC10,10,Credit Card,Australia Post Express,5
+12501,34537,8/03/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+12665,38447,19/09/2024,GGOEGAAQ033913,Google Men's Vintage Badge Tee White,Apparel,3,4.56,12.91,Used,SALE30,30,Venmo,CouriersPlease,2
+13798,26963,5/01/2024,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Bags,1,12.79,15.75,Used,AIO20,20,Credit Card,Toll Priority,4
+14594,17616,1/11/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,122.77,6.5,Used,ELEC10,10,PayPal,Australia Post Courier,3
+16315,36756,27/08/2024,GGOEGAAQ010415,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,1,16.99,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+17511,23755,21/03/2024,GGOEGAAB010514,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1,13.59,6.5,Not Used,no,0,Credit Card,Australia Post Courier,2
+17059,20696,17/02/2024,GGOEGAEB084517,BLM Sweatshirt,Apparel,2,41.99,6.5,Used,SALE20,20,PayPal,Australia Post Express,2
+12744,41538,24/10/2024,GGOEGOAQ020099,Four Color Retractable Pen,Office,2,2.99,6,Used,OFF10,10,PayPal,Australia Post Courier,3
+15415,44501,24/11/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,4,79,6.5,Used,ELEC20,20,PayPal,Australia Post Express,5
+12377,31918,7/05/2024,GGOEGOAC021799,Ballpoint Pen Blue,Office,5,0.79,19.99,Used,OFF10,10,Debit Card,Toll Priority,1
+14180,46250,12/09/2024,GGOEGALJ091015,Google Women's Tee Grey,Apparel,1,17.93,50,Used,SALE30,30,Credit Card,Toll Priority,1
+13263,38409,18/09/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6,Used,ELEC30,30,PayPal,Australia Post Courier,3
+12370,28982,26/05/2024,GGOEGFKA022299,Keyboard DOT Sticker,Office,1,1.2,6,Not Used,no,0,Credit Card,Australia Post Express,2
+14497,47588,19/12/2024,GGOENEBD084799,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1,151.88,6.5,Used,ELEC30,30,PayPal,Australia Post Express,4
+14321,35611,14/08/2024,GGOEGAAJ073415,Google Men's Short Sleeve Hero Tee Heather,Apparel,1,15.19,6,Not Used,no,0,Debit Card,StarTrack Express,3
+17230,29639,6/05/2024,GGOEGAXL065930,Google Toddler Raglan Shirt Blue Heather/Navy,Apparel,1,19.19,6,Used,SALE30,30,Credit Card,StarTrack Express,3
+17463,44632,26/11/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6.5,Used,ELEC20,20,Debit Card,Australia Post Courier,5
+17097,25932,19/04/2024,GGOEGAAQ010416,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,5,16.99,6,Not Used,no,0,Credit Card,Australia Post Courier,1
+15002,33250,20/07/2024,GGOEAAAB081016,Android Men's Outerstellar Short Sleeve Tee Black,Apparel,1,19.99,6,Used,SALE10,10,Venmo,Australia Post Courier,3
+14708,22306,3/07/2024,GGOEGDHG082499,Google 25 oz Clear Stainless Steel Bottle,Google,13,11.19,354,Used,ELEC10,10,Credit Card,Toll Priority,3
+17742,35903,17/08/2024,GGOEGOAQ012899,Ballpoint LED Light Pen,Office,30,2,59.16,Used,OFF20,20,PayPal,Toll Priority,2
+17920,17096,1/04/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,122.77,6.5,Not Used,no,0,Cash,StarTrack Express,5
+17841,35321,8/11/2024,GGOEGHGH019699,Google Sunglasses,Lifestyle,5,2.8,80.38,Not Used,no,0,Credit Card,Toll Priority,5
+17690,37841,9/11/2024,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,3,1.11,6,Used,EXTRA30,30,Credit Card,Australia Post Courier,2
+17897,24114,26/03/2024,GGOEGAAB010516,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1,16.99,67.67,Used,SALE30,30,Credit Card,Toll Priority,2
+16767,43088,11/10/2024,GGOEGDHR018499,Google 22 oz Water Bottle,Drinkware,1,2.99,6,Not Used,no,0,Credit Card,Australia Post Express,3
+14085,28160,16/05/2024,GGOEGHGT019599,Google Sunglasses,Lifestyle,5,2.8,6,Used,EXTRA20,20,Credit Card,Australia Post Express,4
+15555,21537,28/02/2024,GGOEGOLC014299,Google Metallic Notebook Set,Office,30,4.79,35.3,Used,OFF20,20,Credit Card,Toll Priority,4
+15021,24504,30/03/2024,GGOEGOLC014299,Google Metallic Notebook Set,Office,2,4.79,12.48,Used,OFF30,30,Credit Card,CouriersPlease,4
+14049,42040,29/10/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3,79,6,Not Used,no,0,PayPal,StarTrack Express,4
+15373,19849,2/07/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,1.59,6.5,Not Used,no,0,PayPal,Australia Post Express,3
+17340,32388,7/11/2024,GGOEGAAJ032716,Google Men's Skater Tee Grey,Apparel,1,8,6,Used,SALE10,10,Debit Card,StarTrack Express,3
+13742,40298,10/10/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6,Used,ELEC10,10,Debit Card,Australia Post Courier,4
+15311,47505,19/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,6.5,Used,ELEC30,30,Credit Card,Australia Post Express,5
+17346,29611,6/05/2024,GGOEGARJ058413,Google Women's Yoga Pants,Apparel,1,55.43,6,Used,SALE30,30,Credit Card,Australia Post Courier,1
+13862,36178,21/08/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC20,20,PayPal,Australia Post Courier,5
+14702,26157,21/04/2024,GGOEYHPB072210,YouTube Twill Cap,Apparel,3,8.79,6,Used,SALE10,10,PayPal,Australia Post Courier,4
+17673,40363,10/11/2024,GGOEGGCX056399,Gift Card - $250.00,Gift Cards,1,250,0,Not Used,no,0,PayPal,Australia Post Free Parcel,2
+13069,35122,8/09/2024,GGOEGOCC077299,Google RFID Journal,Notebooks & Journals,1,6,6,Used,NJ20,20,Credit Card,Australia Post Express,3
+15498,39418,30/09/2024,GGOEGAAJ032713,Google Men's Long & Lean Tee Grey,Apparel,1,9.99,6,Used,SALE30,30,Debit Card,Australia Post Courier,2
+16771,46765,13/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,6.5,Used,ELEC30,30,Debit Card,StarTrack Express,2
+14298,29015,27/05/2024,GGOEAHPJ074410,Android Twill Cap,Apparel,1,10.99,6,Used,SALE20,20,Debit Card,StarTrack Express,2
+13280,43436,14/11/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,1,199,6,Used,NE20,20,PayPal,Australia Post Courier,3
+14709,30649,18/06/2024,GGOEGALJ073314,Google Women's Short Sleeve Hero Tee Heather,Apparel,1,18.99,6,Not Used,no,0,Cash,Australia Post Courier,2
+15379,34017,28/07/2024,GGOEGBRA037499,Waterproof Backpack,Bags,1,99.99,6,Used,AIO10,10,Credit Card,StarTrack Express,4
+15923,18470,21/01/2024,GGOEGAAJ057015,Google Men's Short Sleeve Performance Badge Tee Charcoal,Apparel,1,45.38,6.5,Used,SALE10,10,Venmo,Australia Post Courier,1
+17341,24654,4/02/2024,GGOEGAER033215,Google Men's Long Sleeve Raglan Cranberry,Apparel,1,19.99,6.5,Used,SALE10,10,Venmo,Australia Post Express,3
+15002,23796,22/03/2024,GGOEGBMC073699,Google Collapsible Duffel Blue,More Bags,1,21.99,18.12,Not Used,no,0,PayPal,Toll Priority,2
+18041,46687,13/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,6.5,Used,ELEC30,30,PayPal,Australia Post Express,5
+13969,26174,21/04/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Used,ELEC10,10,Credit Card,Australia Post Courier,3
+13715,18049,17/01/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3,81.5,6.5,Used,ELEC10,10,Credit Card,StarTrack Express,4
+14606,45875,12/06/2024,GGOEGAYR068256,Google Youth Short Sleeve Tee Red,Apparel,1,3.87,6.5,Used,SALE30,30,Debit Card,Australia Post Courier,2
+17913,31621,30/06/2024,GGOEYAAJ033015,YouTube Men's Skater Tee Charcoal,Apparel,2,11.19,6.5,Used,SALE30,30,Credit Card,Australia Post Courier,3
+14735,39257,28/09/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,5,79,6,Used,ELEC30,30,Credit Card,Australia Post Courier,3
+17722,24622,4/01/2024,GGOEGAER029213,Google Women's Short Sleeve Badge Tee Red Heather,Apparel,1,15.19,6.5,Used,SALE10,10,Credit Card,Australia Post Express,3
+12348,41107,19/10/2024,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,65,2.39,32.08,Used,EXTRA10,10,PayPal,Toll Priority,3
+14505,27816,5/11/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+16218,16975,1/03/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used,ELEC10,10,Credit Card,Australia Post Express,4
+17591,24059,25/03/2024,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Office,1,2.39,6.5,Used,OFF30,30,Credit Card,Australia Post Courier,3
+15332,20469,15/02/2024,GGOEGOCR017899,Recycled Paper Journal Set,Office,5,3.99,6.5,Used,OFF20,20,Debit Card,StarTrack Express,4
+17243,39914,10/05/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2,79,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+14496,45559,12/04/2024,GGOEAFKA087599,Android Large Removable Sticker Sheet,Accessories,1,2.44,6.5,Used,ACC30,30,PayPal,StarTrack Express,1
+13089,36670,26/08/2024,GGOEYFKQ020699,YouTube Custom Decals,Office,1,1.99,6,Used,OFF20,20,PayPal,Australia Post Courier,4
+16567,34377,8/01/2024,GGOEGAAQ010415,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,2,13.59,6.5,Not Used,no,0,Credit Card,Australia Post Express,2
+14735,39248,28/09/2024,GGOEYAEJ029513,YouTube Women's Short Sleeve Tri-blend Badge Tee Charcoal,Apparel,1,9.49,6,Used,SALE30,30,Credit Card,Australia Post Courier,3
+15033,37185,9/01/2024,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Bags,1,12.79,43.31,Not Used,no,0,Credit Card,Toll Priority,3
+16767,43095,11/10/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2,149,6,Used,ELEC20,20,Debit Card,Australia Post Courier,5
+14448,27072,5/02/2024,GGOEGAEB084517,BLM Sweatshirt,Apparel,1,33.59,6,Used,SALE20,20,Credit Card,Australia Post Express,2
+14415,29163,30/05/2024,GGOEGDHQ015399,26 oz Double Wall Insulated Bottle,Drinkware,1,19.99,6,Used,EXTRA20,20,Credit Card,Australia Post Courier,5
+14083,32254,7/10/2024,GGOEGOAB022499,Satin Black Ballpoint Pen,Office,1,22.39,6,Used,OFF10,10,Credit Card,Australia Post Express,3
+16923,34872,8/07/2024,GGOEGHGH019699,Google Sunglasses,Lifestyle,3,2.8,26.2,Not Used,no,0,Credit Card,Toll Priority,3
+13089,46497,12/11/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,355.74,6.5,Not Used,no,0,PayPal,StarTrack Express,5
+14040,42867,11/08/2024,GGOEWAEA083899,Waze Dress Socks,Waze,1,8.99,6,Used,WEMP20,20,PayPal,Australia Post Express,1
+12356,38219,15/09/2024,GGOEGAWR061850,Google Infant Short Sleeve Tee Red,Apparel,3,13.59,6,Used,SALE30,30,PayPal,Australia Post Courier,2
+15464,33621,24/07/2024,GGOEGALQ034213,Google Women's Vintage Hero Tee White,Apparel,2,10.63,6,Not Used,no,0,PayPal,Australia Post Courier,3
+14606,36434,23/08/2024,GGOEAAEJ030914,Android Women's Long Sleeve Blended Cardigan Grey,Apparel,1,12,6,Used,SALE20,20,PayPal,Australia Post Express,1
+16499,29181,30/05/2024,GGOEGAAQ010416,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,2,16.99,6,Not Used,no,0,Credit Card,StarTrack Express,2
+14573,19309,31/01/2024,GGOEGOAC016199,Executive Twist Ballpoint Pen,Office,4,8.24,18.47,Not Used,no,0,Venmo,Toll Priority,1
+14401,44142,21/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,2
+15024,23837,22/03/2024,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,50,1.99,6.5,Used,EXTRA30,30,Credit Card,Australia Post Courier,2
+13564,32373,7/11/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC10,10,Credit Card,Australia Post Express,5
+15856,25698,16/04/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,PayPal,Australia Post Courier,4
+16222,41656,25/10/2024,GGOEAAAJ032413,Android Men's Short Sleeve Tri-blend Hero Tee Grey,Apparel,1,3.8,6,Used,SALE10,10,Credit Card,Australia Post Courier,3
+15005,35275,8/10/2024,GGOEGAAQ033917,Google Men's Vintage Badge Tee White,Apparel,1,5.7,6,Not Used,no,0,Credit Card,Australia Post Courier,1
+17619,45310,12/01/2024,GGOEGAEL091314,Google Crew Sweater Navy,Apparel,1,42.39,6.5,Used,SALE30,30,Credit Card,Australia Post Courier,3
+14606,35188,8/10/2024,GGOEGAYB068056,Google Youth Baseball Raglan Heather/Black,Apparel,1,19.99,6,Used,SALE20,20,Credit Card,Australia Post Express,2
+15601,43432,14/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6,Used,ELEC20,20,PayPal,Australia Post Courier,4
+14329,37236,9/01/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC30,30,Debit Card,Australia Post Express,2
+17897,24112,26/03/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,12,1.59,6.5,Used,OFF30,30,PayPal,Australia Post Courier,3
+16767,43122,11/10/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,PayPal,StarTrack Express,3
+15039,28809,24/05/2024,GGOEGOAB022499,Satin Black Ballpoint Pen,Office,2,22.39,6,Used,OFF20,20,Debit Card,Australia Post Courier,2
+14810,20480,15/02/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,PayPal,StarTrack Express,4
+15311,32743,15/07/2024,GGOEGOAQ020099,Four Color Retractable Pen,Office,1,2.39,6,Not Used,no,0,Credit Card,Australia Post Express,4
+16757,41267,20/10/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,12.99,Not Used,no,0,Credit Card,CouriersPlease,3
+15005,35271,8/10/2024,GGOENEBD084799,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1,149,6,Used,ELEC20,20,Credit Card,StarTrack Express,4
+15023,38337,17/09/2024,GGOEGAPB058613,Google Women's Yoga Jacket Black,Apparel,1,42,6,Used,SALE30,30,Credit Card,Australia Post Express,2
+17685,48203,27/12/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,121.3,6.5,Used,ELEC30,30,PayPal,Australia Post Courier,5
+14524,28695,23/05/2024,GGOEGAAJ032716,Google Men's Skater Tee Grey,Apparel,2,11.19,6,Used,SALE20,20,PayPal,Australia Post Express,2
+12705,31476,28/06/2024,GGOEGAEJ035316,Google Vintage Henley Grey/Black,Apparel,1,23.99,6,Used,SALE30,30,PayPal,Australia Post Express,2
+12748,26532,27/04/2024,GGOEADWQ015699,Android Rise 14 oz Mug,Drinkware,1,10.39,6,Used,EXTRA10,10,PayPal,Australia Post Courier,5
+17337,47014,15/12/2024,GGOEGAEL091314,Google Crew Sweater Navy,Apparel,1,42.39,6.5,Not Used,no,0,Credit Card,Australia Post Courier,2
+15620,30758,19/06/2024,GGOEGGCX056299,Gift Card - $25.00,Gift Cards,6,25,0,Not Used,no,0,PayPal,Australia Post Free Parcel,1
+13069,27968,13/05/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,Credit Card,StarTrack Express,4
+15002,33245,20/07/2024,GGOEGOAQ020099,Four Color Retractable Pen,Office,4,2.39,6.5,Used,OFF10,10,Credit Card,Australia Post Express,4
+17850,18216,18/01/2024,GGOEGDHB072099,Google Insulated Stainless Steel Bottle,Drinkware,1,16.5,6.5,Not Used,no,0,Credit Card,Australia Post Courier,2
+13627,31196,25/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,3,119,6,Not Used,no,0,PayPal,Australia Post Courier,2
+12523,36249,22/08/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC20,20,Credit Card,Australia Post Courier,4
+15498,39367,29/09/2024,GGOEGAEJ028014,Google Women's Short Sleeve Hero Tee Grey,Apparel,2,4.08,6,Used,SALE30,30,Credit Card,Australia Post Express,2
+14505,27830,5/11/2024,GGOEGAEQ027915,Google Women's Short Sleeve Hero Tee White,Apparel,1,13.59,6,Used,SALE20,20,Credit Card,Australia Post Courier,1
+17961,19293,31/01/2024,GGOEGAEB031515,Google 3/4 Sleeve Raglan Badge Henley Black,Apparel,5,25.78,6.5,Used,SALE10,10,Credit Card,Australia Post Courier,1
+17858,29901,6/08/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6,Not Used,no,0,Credit Card,Australia Post Courier,5
+14667,26473,26/04/2024,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Office,2,1.99,6,Used,OFF10,10,Credit Card,Australia Post Courier,4
+13408,40585,10/12/2024,GGOENEBQ086799,Nest Thermostat E - USA,Nest,1,99,6,Not Used,no,0,PayPal,Australia Post Courier,4
+15194,23050,16/03/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,Credit Card,Australia Post Courier,4
+15880,20974,21/02/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,Cash,Australia Post Express,5
+12386,33951,28/07/2024,GGOEGFSR022099,Google Kick Ball,Lifestyle,6,1.99,6,Not Used,no,0,PayPal,Australia Post Courier,3
+13138,18872,25/01/2024,GGOEGDHR018499,Google 22 oz Water Bottle,Drinkware,1,2.47,6.5,Not Used,no,0,Debit Card,Australia Post Express,4
+17337,47057,15/12/2024,GGOEGDHR086999,Google Thermal Bottle Red,Drinkware,1,24.45,75,Not Used,no,0,Cash,Toll Priority,2
+15727,30097,6/11/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3,79,6,Used,ELEC30,30,Debit Card,StarTrack Express,4
+17708,38535,20/09/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC30,30,Credit Card,StarTrack Express,3
+16713,24772,4/04/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,1.99,6.5,Used,OFF10,10,Credit Card,Australia Post Express,3
+15356,28721,23/05/2024,GGOEYFKQ020699,YouTube Custom Decals,Office,1,1.99,6,Used,OFF20,20,PayPal,Australia Post Courier,3
+15271,25748,17/04/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.39,6,Not Used,no,0,PayPal,Australia Post Express,3
+14646,39516,10/01/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,349,6,Not Used,no,0,PayPal,Australia Post Express,4
+14761,35070,8/09/2024,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Bags,35,12.79,25.44,Not Used,no,0,Credit Card,Toll Priority,3
+15646,19119,29/01/2024,GGOEGOAA017099,Ballpoint Stick Pen 4 Pack,Office,15,4.12,6.5,Not Used,no,0,Credit Card,Australia Post Express,2
+14709,42974,11/09/2024,GGOEGHPB071610,Google Twill Cap,Apparel,25,10.99,6,Used,SALE20,20,Debit Card,Australia Post Courier,4
+16893,24472,30/03/2024,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,20,2.39,39.81,Used,EXTRA30,30,Debit Card,Toll Priority,3
+13093,34108,30/07/2024,GGOEGAAB033815,Google Men's Vintage Badge Tee Black,Apparel,1,7.6,6,Used,SALE10,10,Credit Card,Australia Post Courier,4
+18250,46691,13/12/2024,GGOEYOCB092699,YouTube Transmission Journal Black,Notebooks & Journals,20,17.93,15.72,Used,NJ30,30,Credit Card,Toll Priority,3
+12621,25352,4/12/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,PayPal,Australia Post Express,2
+14606,38899,25/09/2024,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Office,1,2.39,6,Used,OFF30,30,Debit Card,StarTrack Express,3
+13198,41564,24/10/2024,GGOEGALJ036416,Google Women's Tee Grey,Apparel,1,6,6,Used,SALE10,10,Credit Card,StarTrack Express,1
+16456,17660,1/11/2024,GGOEGAAL059015,Google Men's Short Sleeve Performance Badge Tee Navy,Apparel,1,18.15,6.5,Used,SALE10,10,Credit Card,StarTrack Express,1
+17799,28118,16/05/2024,GGOEGAWQ062949,Google Baby Essentials Set,Apparel,1,27.19,6.5,Used,SALE20,20,Credit Card,Australia Post Courier,3
+12748,30413,14/06/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC30,30,Credit Card,Australia Post Express,5
+13728,46593,12/12/2024,GGOEGAEJ028115,Google Women's Short Sleeve Badge Tee Grey,Apparel,2,3.47,6.5,Not Used,no,0,PayPal,Australia Post Courier,1
+17341,24675,4/03/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6.5,Not Used,no,0,Credit Card,Australia Post Express,4
+16395,39063,26/09/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC30,30,Credit Card,Australia Post Courier,3
+13049,41883,27/10/2024,GGOEGHGT019599,Google Sunglasses,Lifestyle,4,2.8,6,Not Used,no,0,PayPal,Australia Post Courier,3
+16367,27415,5/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,Cash,StarTrack Express,2
+13093,46516,12/11/2024,GGOENEBQ086799,Nest Thermostat E - USA,Nest,1,100.91,6.5,Used,NE30,30,PayPal,StarTrack Express,4
+14729,17322,1/07/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Not Used,no,0,Credit Card,StarTrack Express,4
+16814,38257,15/09/2024,GGOEGAPJ058015,Google Women's 1/4 Zip Jacket Charcoal,Apparel,1,44,6,Used,SALE30,30,Credit Card,Australia Post Express,3
+13078,24159,27/03/2024,GGOEGAYQ068956,Google Youth Girl Hoodie,Apparel,1,35.2,6.5,Used,SALE30,30,Credit Card,Australia Post Courier,2
+14680,29140,30/05/2024,GGOEGAXC065628,Google Toddler Hoodie Royal Blue,Apparel,1,30.39,13.35,Used,SALE20,20,PayPal,CouriersPlease,1
+16931,20338,13/02/2024,GGOEGAWR061050,Google Onesie Red/Graphite,Apparel,1,19.19,6.5,Used,SALE20,20,Credit Card,Australia Post Express,2
+12947,34386,8/01/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3,79,6,Not Used,no,0,Credit Card,Australia Post Express,4
+14514,36586,25/08/2024,GGOEGAAJ080615,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1,15.99,6,Used,SALE20,20,Debit Card,Australia Post Express,3
+15033,37185,9/01/2024,GGOEGADJ057116,Google Men's Performance 1/4 Zip Pullover Heather/Black,Apparel,1,26.4,43.31,Not Used,no,0,Credit Card,Toll Priority,3
+15574,18966,27/01/2024,GGOEGAWH061353,Google Onesie Green,Apparel,1,19.8,12.76,Used,SALE10,10,Credit Card,CouriersPlease,2
+16202,28654,22/05/2024,GGOEGAPB057817,Women's Performance Full Zip Jacket Black,Apparel,1,67.19,6,Not Used,no,0,Credit Card,Australia Post Courier,2
+15157,30670,18/06/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Used,ELEC30,30,Credit Card,Australia Post Express,3
+18071,25363,4/12/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,3,2.99,6.5,Used,OFF10,10,PayPal,Australia Post Courier,3
+17609,37611,9/07/2024,GGOEGHGT019599,Google Sunglasses,Lifestyle,5,2.8,38.19,Used,EXTRA30,30,Credit Card,Toll Priority,2
+13230,47660,20/12/2024,GGOEGAEJ028116,Google Women's Short Sleeve Badge Tee Grey,Apparel,1,4.33,6,Used,SALE30,30,Debit Card,Australia Post Courier,3
+14068,40422,10/11/2024,GGOEGFKQ020799,Google Doodle Decal,Office,1,2.39,6,Used,OFF10,10,Credit Card,Australia Post Courier,3
+17888,42209,31/10/2024,GGOENEBJ081899,Nest Learning Thermostat 3rd Gen - CA - Stainless Steel,Nest-Canada,1,199,8.7,Used,NCA10,10,PayPal,Australia Post Express,2
+16233,29445,6/02/2024,GGOENEBJ081899,Nest Learning Thermostat 3rd Gen - CA - Stainless Steel,Nest-Canada,1,199,8.7,Used,NCA30,30,Credit Card,StarTrack Express,2
+12748,29080,29/05/2024,GGOEWEBB082699,Waze Mobile Phone Vent Mount,Waze,1,5.59,6,Used,WEMP20,20,PayPal,Australia Post Courier,5
+14800,27085,5/02/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6,Used,ELEC20,20,Venmo,Australia Post Courier,3
+16550,22808,14/03/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC30,30,PayPal,Australia Post Express,4
+14646,37132,31/08/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,3,119,6,Not Used,no,0,PayPal,Australia Post Express,4
+13370,19379,2/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6.5,Not Used,no,0,PayPal,StarTrack Express,4
+18118,38312,16/09/2024,GGOEGAAH034017,Google Men's Vintage Badge Tee Sage,Apparel,1,5.7,6,Used,SALE30,30,Credit Card,Australia Post Express,3
+15525,17468,1/09/2024,GGOEGAEQ027914,Google Women's Short Sleeve Hero Tee White,Apparel,1,17.53,6.5,Not Used,no,0,PayPal,Australia Post Courier,1
+12427,32652,14/07/2024,GGOEGOCD078399,Google Leather Perforated Journal,Notebooks & Journals,20,10.8,22.58,Not Used,no,0,Credit Card,Toll Priority,1
+14505,27787,5/11/2024,GGOEGADB059214,Google Men's Airflow 1/4 Zip Pullover Black,Apparel,1,39.19,6,Not Used,no,0,Credit Card,Australia Post Courier,2
+17392,31039,22/06/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6,Not Used,no,0,PayPal,Australia Post Courier,5
+17555,35093,8/09/2024,GGOEGDWR015799,Red Shine 15 oz Mug,Drinkware,10,10.39,15.72,Used,EXTRA20,20,Debit Card,Toll Priority,4
+15032,24752,4/04/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC10,10,Credit Card,Australia Post Courier,3
+15358,42568,11/04/2024,GGOEGAAJ032613,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,1,4.75,6,Used,SALE20,20,PayPal,Australia Post Express,2
+12472,42089,30/10/2024,GGOEAKDH019899,Windup Android,Lifestyle,15,3.19,27.62,Not Used,no,0,PayPal,Toll Priority,3
+17230,46581,12/12/2024,GGOEGAEH090615,Google Tee Green,Apparel,1,17.93,6.5,Used,SALE30,30,Venmo,Australia Post Courier,2
+17368,33850,27/07/2024,GGOEAAAB034815,Android BTTF Cosmos Graphic Tee,Apparel,1,15.99,6.5,Not Used,no,0,Credit Card,Australia Post Express,3
+15311,46031,12/07/2024,GGOEAKDH019899,Windup Android,Lifestyle,1,4.07,6,Used,EXTRA30,30,Credit Card,Australia Post Courier,3
+17722,38674,21/09/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1,79,6,Used,ELEC30,30,Credit Card,Australia Post Courier,2
+14696,38247,15/09/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,5,2.99,6,Not Used,no,0,Credit Card,Australia Post Courier,2
+17372,27388,5/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,Credit Card,Australia Post Express,5
+17618,27778,5/11/2024,GGOEGOAB015899,Rainbow Stylus Pen,Office,5,1.5,6,Used,OFF20,20,Credit Card,StarTrack Express,3
+15719,47317,18/12/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,1,202.84,6.5,Not Used,no,0,Credit Card,Australia Post Courier,2
+17863,46422,12/11/2024,GGOEAFKA087499,Android Small Removable Sticker Sheet,Accessories,1,2.44,6.5,Used,ACC30,30,Credit Card,Australia Post Courier,2
+17602,38949,25/09/2024,GGOEGOAQ020099,Four Color Retractable Pen,Office,1,2.99,12.99,Not Used,no,0,Credit Card,CouriersPlease,4
+14587,45951,12/07/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,355.74,6.5,Not Used,no,0,Venmo,Australia Post Express,3
+17555,35085,8/09/2024,GGOEGAAJ059116,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1,8.8,6,Used,SALE20,20,PayPal,Australia Post Courier,1
+14565,28137,16/05/2024,GGOEGALP034313,Google Women's Vintage Hero Tee Lavender,Apparel,1,10.63,6,Used,SALE20,20,Credit Card,Australia Post Express,1
+17771,39301,28/09/2024,GGOEGHPB071610,Google Twill Cap,Apparel,1,10.99,12.99,Not Used,no,0,PayPal,CouriersPlease,3
+13263,38407,18/09/2024,GGOEGGOA017399,Maze Pen,Office,2,0.79,6,Not Used,no,0,PayPal,Australia Post Courier,4
+15549,43349,14/11/2024,GGOEYFKQ020699,YouTube Custom Decals,Office,4,0.4,6.5,Not Used,no,0,Credit Card,StarTrack Express,3
+14800,27090,5/02/2024,GGOEGAEB084515,BLM Sweatshirt,Apparel,2,33.59,6,Used,SALE20,20,Credit Card,Australia Post Courier,3
+17303,28181,16/05/2024,GGOEGAAJ080614,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,2,19.99,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+13081,34229,31/07/2024,GGOEGAAB033814,Google Men's Vintage Badge Tee Black,Apparel,1,7.6,6,Used,SALE10,10,Credit Card,Australia Post Courier,3
+15311,36463,24/08/2024,GGOEGAAJ057013,Google Men's Short Sleeve Performance Badge Tee Charcoal,Apparel,1,13.2,6,Used,SALE20,20,PayPal,StarTrack Express,2
+14572,39035,26/09/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,1,199,6,Not Used,no,0,PayPal,StarTrack Express,3
+13089,33328,21/07/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,12.99,Used,ELEC10,10,Credit Card,CouriersPlease,5
+13769,23847,22/03/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,PayPal,StarTrack Express,4
+14006,45385,12/02/2024,GGOEGAXB089229,Google Trike Tee Black,Apparel,1,16.3,6.5,Used,SALE30,30,PayPal,Australia Post Express,2
+14680,19532,2/02/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,PayPal,Australia Post Express,4
+16353,36251,22/08/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,Venmo,Australia Post Express,2
+13911,48168,27/12/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,121.3,6.5,Used,ELEC30,30,Debit Card,Australia Post Express,3
+14415,38399,18/09/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,PayPal,StarTrack Express,5
+15312,32071,7/07/2024,GGOEGOCC077299,Google RFID Journal,Notebooks & Journals,1,13.99,6,Used,NJ10,10,Credit Card,Australia Post Express,3
+14099,37341,9/04/2024,GGOEGAEJ028015,Google Women's Short Sleeve Hero Tee Grey,Apparel,1,5.1,6,Used,SALE30,30,Debit Card,Australia Post Express,1
+12600,31166,24/06/2024,GGOEGAXQ067155,Google Toddler Short Sleeve Tee White,Apparel,1,16.99,6,Used,SALE30,30,PayPal,Australia Post Express,1
+13178,28894,25/05/2024,GGOEGOGA016299,Grip Highlighter Pen 3 Pack,Office,1,2.79,6,Not Used,no,0,Credit Card,StarTrack Express,1
+14505,27817,5/11/2024,GGOEGHPB071610,Google Twill Cap,Apparel,1,10.99,6,Used,SALE20,20,Venmo,StarTrack Express,3
+12748,26573,27/04/2024,GGOEGDWR015799,Red Shine 15 oz Mug,Drinkware,138,12.99,6,Used,EXTRA10,10,Credit Card,Australia Post Express,5
+17929,47809,21/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,6.5,Used,ELEC30,30,Credit Card,Australia Post Courier,3
+16470,30418,14/06/2024,GGOEGAYB068026,Google Youth Baseball Raglan Heather/Black,Apparel,1,19.99,6,Used,SALE30,30,PayPal,Australia Post Express,3
+13370,25116,4/08/2024,GGOEAAAL081117,Android Men's Pep Rally Short Sleeve Tee Navy,Apparel,1,13.99,6.5,Used,SALE10,10,Credit Card,StarTrack Express,1
+15882,22694,13/03/2024,GGOEGOLC014299,Google Metallic Notebook Set,Office,25,5.99,294,Used,OFF30,30,Debit Card,Toll Priority,2
+17841,36379,23/08/2024,GGOEAAAB081015,Android Men's Outerstellar Short Sleeve Tee Black,Apparel,1,15.99,6,Not Used,no,0,Credit Card,Australia Post Courier,1
+14085,36748,27/08/2024,GGOEGAFB035814,Google Men's  Zip Hoodie,Apparel,1,44.79,6.5,Used,SALE20,20,PayPal,Australia Post Courier,3
+18041,18307,19/01/2024,GGOEGOXQ016399,Badge Holder,Office,1,2.05,6.5,Used,OFF10,10,Credit Card,Australia Post Courier,4
+17920,44150,21/11/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,PayPal,Australia Post Express,5
+13148,44443,24/11/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,5,79,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+17059,20728,18/02/2024,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Office,1,2.99,6.5,Not Used,no,0,Credit Card,Australia Post Courier,3
+16081,24410,29/03/2024,GGOEADHH073999,Android 17oz Stainless Steel Sport Bottle,Drinkware,2,15.19,6.5,Used,EXTRA30,30,Credit Card,StarTrack Express,3
+14653,33486,23/07/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC10,10,Venmo,Australia Post Express,5
+14472,31700,7/01/2024,GGOEGOLC013299,Spiral Notebook and Pen Set,Office,20,5.99,6,Used,OFF10,10,Credit Card,Australia Post Express,4
+14541,40817,16/10/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Not Used,no,0,PayPal,Australia Post Courier,3
+15660,25303,4/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC10,10,Credit Card,Australia Post Courier,4
+14224,40205,10/09/2024,GGOEGAAJ032617,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,6,13.29,12.99,Used,SALE10,10,Credit Card,CouriersPlease,1
+17850,16903,1/03/2024,GGOEGDHG082499,Google 25 oz Clear Stainless Steel Bottle,Google,3,11.54,35.3,Used,ELEC10,10,Credit Card,Toll Priority,2
+16779,45347,12/01/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,121.3,12.48,Not Used,no,0,Credit Card,CouriersPlease,2
+15456,30075,6/11/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.99,6,Not Used,no,0,PayPal,Australia Post Express,3
+13267,24166,27/03/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6.5,Used,ELEC30,30,Credit Card,Australia Post Courier,2
+16134,29942,6/09/2024,GGOEGADB056715,Men's Softshell Jacket Black/Grey,Apparel,1,79.19,12.99,Used,SALE30,30,Debit Card,CouriersPlease,2
+16029,16799,1/02/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,122.77,6.5,Not Used,no,0,Credit Card,Australia Post Courier,4
+15723,26449,26/04/2024,GGOEGAWH061353,Google Onesie Green,Apparel,1,23.99,6,Used,SALE10,10,PayPal,StarTrack Express,1
+12748,21105,22/02/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Not Used,no,0,PayPal,StarTrack Express,5
+17841,26098,21/04/2024,GGOEADHH015499,Android 24 oz Contigo Bottle,Drinkware,30,13.43,75.54,Not Used,no,0,Credit Card,Toll Priority,1
+15061,23885,23/03/2024,GGOEGAAL010614,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1,13.59,6.5,Used,SALE30,30,Credit Card,Australia Post Express,2
+17591,24047,25/03/2024,GGOEGHGR019499,Google Sunglasses,Lifestyle,1,2.8,6.5,Used,EXTRA30,30,Credit Card,Australia Post Courier,3
+17340,32389,7/11/2024,GGOEGHGT019599,Google Sunglasses,Lifestyle,1,2.8,6,Used,EXTRA10,10,PayPal,Australia Post Courier,3
+16883,19401,2/01/2024,GGOEGADB059614,Google Men's Quilted Insulated Vest Black,Apparel,1,59.99,13.78,Used,SALE20,20,Credit Card,CouriersPlease,3
+15078,22428,3/08/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,Debit Card,Australia Post Courier,3
+13969,39753,10/04/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,10,2.99,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+16477,19669,2/04/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,4,119,6.5,Used,ELEC20,20,PayPal,StarTrack Express,5
+15171,36604,25/08/2024,GGOEGALQ036614,Google Women's Scoop Neck Tee White,Apparel,2,4.8,6,Used,SALE20,20,PayPal,Australia Post Express,1
+13581,47539,19/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,6.5,Not Used,no,0,PayPal,StarTrack Express,4
+14085,32660,14/07/2024,GGOEGBRC021399,Yoga Mat Blue,Lifestyle,1,9.2,6,Used,EXTRA10,10,Credit Card,Australia Post Courier,2
+16782,29658,6/05/2024,GGOEAAEJ035714,Android Men's Vintage Tank,Apparel,1,11.75,6,Used,SALE30,30,Credit Card,Australia Post Express,1
+14779,39147,27/09/2024,GGOEGHGH019699,Google Sunglasses,Lifestyle,6,2.8,33.04,Used,EXTRA30,30,Credit Card,Toll Priority,3
+17530,26187,21/04/2024,GGOEGAWQ062953,Google Baby Essentials Set,Apparel,1,27.19,6,Not Used,no,0,Credit Card,Australia Post Courier,2
+16558,28594,22/05/2024,GGOEWEBB082699,Waze Mobile Phone Vent Mount,Waze,1,6.99,6,Used,WEMP20,20,PayPal,StarTrack Express,4
+15329,26014,19/04/2024,GGOEADHH055999,22 oz Android Bottle,Bottles,7,2.39,12.48,Used,BT10,10,PayPal,CouriersPlease,4
+13451,35385,8/11/2024,GGOEGAAB033814,Google Men's Vintage Badge Tee Black,Apparel,1,7.6,6,Used,SALE20,20,PayPal,StarTrack Express,4
+12947,17901,15/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used,ELEC10,10,Credit Card,Australia Post Courier,5
+15365,43925,20/11/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,PayPal,Australia Post Courier,3
+15628,24189,27/03/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC30,30,Debit Card,Australia Post Courier,5
+17812,23134,17/03/2024,GGOEGAYQ069024,Google Youth Short Sleeve Tee White,Apparel,1,15.19,6.5,Used,SALE30,30,Venmo,Australia Post Courier,2
+15719,33926,27/07/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Used,ELEC10,10,PayPal,Australia Post Courier,3
+17811,35541,14/08/2024,GGOEGAFB035814,Google Men's  Zip Hoodie,Apparel,1,44.79,6,Used,SALE20,20,PayPal,Australia Post Express,3
+15808,21064,22/02/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Not Used,no,0,Credit Card,Australia Post Courier,5
+16402,21258,24/02/2024,GGOEGDHB072099,Google Insulated Stainless Steel Bottle,Drinkware,8,15.99,64.01,Not Used,no,0,Credit Card,Toll Priority,1
+15358,42562,11/04/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6,Not Used,no,0,Credit Card,Australia Post Express,5
+17975,33043,18/07/2024,GGOEGPJC203399,Crunch Noise Dog Toy,Lifestyle,1,2.79,12.99,Used,EXTRA10,10,Debit Card,CouriersPlease,3
+18161,40666,13/10/2024,GGOEGAAJ032617,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,2,13.29,6,Not Used,no,0,Credit Card,Australia Post Courier,2
+12921,33275,20/07/2024,GGOEGALB034115,Google Women's Vintage Hero Tee Black,Apparel,1,4.56,6,Used,SALE10,10,PayPal,StarTrack Express,2
+12501,34593,8/03/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+12451,38469,19/09/2024,GGOEGALB036513,Google Women's Scoop Neck Tee Black,Apparel,1,6,6,Not Used,no,0,Credit Card,Australia Post Express,3
+14415,29153,30/05/2024,GGOEGBMJ013399,Sport Bag,Bags,2,4.99,6,Not Used,no,0,PayPal,Australia Post Express,2
+12947,17897,14/01/2024,GGOEGOAC016199,Executive Twist Ballpoint Pen,Office,1,8.24,6.5,Used,OFF10,10,PayPal,Australia Post Express,2
+14449,18784,25/01/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,122.77,6.5,Used,ELEC10,10,Credit Card,Australia Post Courier,4
+16218,16961,1/03/2024,GGOEGDWC020199,Engraved Ceramic Google Mug,Drinkware,2,7.42,6.5,Used,EXTRA10,10,Credit Card,Australia Post Express,3
+13050,24178,27/03/2024,GGOEGFAQ016699,Bottle Opener Clip,Drinkware,1,3.5,14.41,Not Used,no,0,Credit Card,CouriersPlease,2
+14850,45825,12/06/2024,GGOEGAEL091313,Google Crew Sweater Navy,Apparel,1,42.39,19.99,Used,SALE30,30,Credit Card,Toll Priority,3
+16775,24027,24/03/2024,GGOEYAEJ029015,YouTube Women's Short Sleeve Hero Tee Charcoal,Apparel,1,15.19,6.5,Used,SALE30,30,Credit Card,Australia Post Courier,1
+12867,29443,6/02/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,12.99,Used,ELEC30,30,Credit Card,CouriersPlease,4
+18069,37579,9/06/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Not Used,no,0,PayPal,Australia Post Express,3
+13013,19615,2/03/2024,GGOEGATB060413,Google Women's Quilted Insulated Vest Black,Apparel,1,59.99,35.96,Not Used,no,0,PayPal,Toll Priority,1
+15311,28336,18/05/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.99,6,Not Used,no,0,Credit Card,Australia Post Express,4
+12471,41509,23/10/2024,GGOEGKAA019299,Switch Tone Color Crayon Pen,Office,1,1.59,6,Used,OFF10,10,Credit Card,Australia Post Express,3
+15596,26031,20/04/2024,GGOEGFKQ020799,Google Doodle Decal,Office,5,2.39,12.99,Used,OFF10,10,Credit Card,CouriersPlease,2
+15694,25285,4/11/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6.5,Used,ELEC10,10,Venmo,Australia Post Courier,3
+14233,46457,12/11/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,121.3,6.5,Used,ELEC30,30,Credit Card,Australia Post Courier,4
+13208,47640,20/12/2024,GGOEGAEB091116,Google Zip Hoodie Black,Apparel,1,48.92,12.99,Used,SALE30,30,Venmo,CouriersPlease,2
+17515,41825,26/10/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,2,199,6,Used,NE10,10,Debit Card,Australia Post Express,4
+17841,29349,6/01/2024,GGOEGAAJ032714,Google Men's Skater Tee Grey,Apparel,1,11.19,6,Used,SALE30,30,Debit Card,Australia Post Courier,3
+17611,40145,10/09/2024,GGOEGAEJ030815,Google Women's Long Sleeve Blended Cardigan Charcoal,Apparel,1,20.99,6,Used,SALE10,10,Credit Card,Australia Post Express,1
+17551,29950,6/09/2024,GGOEGCBQ016499,SPF-15 Slim & Slender Lip Balm,Housewares,50,2,12.48,Not Used,no,0,Credit Card,CouriersPlease,3
+14107,26798,30/04/2024,GGOEYAQB073213,YouTube Women's Fleece Hoodie Black,Apparel,1,31.35,6,Used,SALE10,10,Credit Card,Australia Post Express,2
+14625,28442,19/05/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,Credit Card,StarTrack Express,2
+14810,48269,28/12/2024,GGOEGDHT087199,Google Thermal Bottle Yellow,Drinkware,1,19.56,19.99,Used,EXTRA30,30,PayPal,Toll Priority,2
+12662,47481,19/12/2024,GGOEGAEQ027917,Google Women's Short Sleeve Hero Tee White,Apparel,1,3.47,6.5,Used,SALE30,30,PayPal,StarTrack Express,2
+12451,38473,19/09/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6,Not Used,no,0,Debit Card,Australia Post Courier,4
+16367,27416,5/06/2024,GGOEGOCC017599,Recycled Paper Journal Set,Office,1,3.19,6,Used,OFF20,20,Credit Card,StarTrack Express,4
+13496,29515,6/03/2024,GGOEGHGH019699,Google Sunglasses,Lifestyle,10,3.5,6,Not Used,no,0,Venmo,Australia Post Express,3
+17338,36490,24/08/2024,GGOEGOCB017499,Leatherette Journal,Office,1,7.69,6,Not Used,no,0,PayPal,Australia Post Courier,3
+16684,47250,17/12/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,121.3,12.99,Used,ELEC30,30,PayPal,CouriersPlease,5
+13634,37528,9/06/2024,GGOEGBMJ013399,Sport Bag,Bags,6,4.99,6,Used,AIO30,30,Credit Card,Australia Post Courier,3
+18055,30445,15/06/2024,GGOEGAWQ062953,Google Baby Essentials Set,Apparel,3,27.19,40.25,Not Used,no,0,Credit Card,Toll Priority,2
+13178,28903,25/05/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6,Not Used,no,0,PayPal,Australia Post Express,4
+17220,26932,5/01/2024,GGOEGDHG014499,Google Infuser-Top Water Bottle,Drinkware,25,9.99,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+17841,17712,1/12/2024,GGOEA0CH077599,Android Hard Cover Journal,Notebooks & Journals,5,15.46,57.74,Used,NJ10,10,Venmo,Toll Priority,3
+14713,26128,21/04/2024,GGOEGBJR018199,Reusable Shopping Bag,Bags,2,2.8,6,Not Used,no,0,Credit Card,Australia Post Courier,2
+17449,29572,6/04/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.39,6,Not Used,no,0,Credit Card,Australia Post Courier,5
+12748,26520,26/04/2024,GGOEAHPJ074410,Android Twill Cap,Apparel,1,8.79,6,Used,SALE10,10,Credit Card,Australia Post Courier,1
+15311,16755,1/02/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,122.77,6.5,Used,ELEC10,10,PayPal,Australia Post Express,5
+14606,45888,12/06/2024,GGOEYAWQ089749,YouTube Kids Onesie White,Apparel,5,26.49,6,Used,SALE30,30,Credit Card,Australia Post Courier,3
+17596,22401,3/08/2024,GGOEGHPB071610,Google Twill Cap,Apparel,1,10.99,6.5,Not Used,no,0,Credit Card,Australia Post Express,4
+15039,22154,3/06/2024,GGOEGPJC203399,Crunch Noise Dog Toy,Lifestyle,1,3.99,6.5,Not Used,no,0,PayPal,Australia Post Express,2
+13048,37521,9/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC30,30,Credit Card,StarTrack Express,4
+14729,17354,1/08/2024,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,1,2.05,6.5,Used,EXTRA10,10,Debit Card,Australia Post Courier,3
+16891,19487,2/02/2024,GGOEGAAJ032314,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1,18.99,6.5,Used,SALE20,20,PayPal,Australia Post Express,3
+14298,29006,27/05/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,3,149,6,Used,ELEC20,20,PayPal,Australia Post Express,4
+17555,35094,8/09/2024,GGOEGAAJ032817,Google Men's Long & Lean Tee Charcoal,Apparel,3,6,6,Not Used,no,0,Credit Card,StarTrack Express,1
+16222,41676,25/10/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC10,10,PayPal,StarTrack Express,4
+14527,29785,6/07/2024,GGOEGKAA019299,Switch Tone Color Crayon Pen,Office,4,1.99,19.99,Used,OFF30,30,Credit Card,Toll Priority,3
+15738,45030,28/11/2024,GGOEGOCL087799,Google Large Standard Journal Navy,Office,1,12.79,6.5,Used,OFF20,20,Credit Card,Australia Post Express,3
+17341,24674,4/03/2024,GGOEGOAR021999,Color Changing Grip Pen,Office,25,1.5,6.5,Not Used,no,0,Debit Card,Australia Post Courier,2
+13081,34269,31/07/2024,GGOEGAAC035015,Google Men's Bayside Graphic Tee,Apparel,1,15.99,6,Used,SALE10,10,Credit Card,Australia Post Courier,1
+12935,40807,16/10/2024,GGOEWEBB082699,Waze Mobile Phone Vent Mount,Waze,1,6.99,324,Not Used,no,0,Credit Card,Toll Priority,3
+13305,18453,20/01/2024,GGOEYAFB073117,YouTube Men's Fleece Hoodie Black,Apparel,1,57.76,6.5,Used,SALE10,10,Debit Card,Australia Post Express,2
+13267,24164,27/03/2024,GGOEGOAB012999,Ballpoint Pen & Matching Tube Case,Office,2,5.99,75,Used,OFF30,30,PayPal,Toll Priority,2
+15880,20941,21/02/2024,GGOEGGOA017399,Maze Pen,Office,200,0.99,6.5,Used,OFF20,20,Credit Card,Australia Post Courier,2
+16945,30979,22/06/2024,GGOENEBD084799,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1,149,6,Used,ELEC30,30,PayPal,Australia Post Express,3
+16156,46560,12/12/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,2,202.84,6.5,Not Used,no,0,PayPal,StarTrack Express,4
+12472,42098,30/10/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Used,ELEC10,10,Credit Card,Australia Post Express,5
+16727,26826,30/04/2024,GGOENEBD084799,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,2,149,6,Used,ELEC10,10,PayPal,Australia Post Courier,2
+14156,37274,9/02/2024,GGOEGAEJ030816,Google Women's Long Sleeve Blended Cardigan Charcoal,Apparel,1,16.79,6,Used,SALE30,30,Credit Card,StarTrack Express,2
+12393,35891,17/08/2024,GGOEGBMJ013399,Sport Bag,Bags,40,3.99,26.43,Used,AIO20,20,Venmo,Toll Priority,3
+17236,41455,23/10/2024,GGOEGHGR019499,Google Sunglasses,Lifestyle,5,3.5,6,Used,EXTRA10,10,Credit Card,Australia Post Express,2
+14415,29161,30/05/2024,GGOEGAAB033815,Google Men's Vintage Badge Tee Black,Apparel,1,13.29,6,Not Used,no,0,PayPal,Australia Post Express,5
+18125,43244,11/12/2024,GGOEGADJ057118,Google Men's Performance 1/4 Zip Pullover Heather/Black,Apparel,1,27.5,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+14810,34957,8/08/2024,GGOEGAAB033815,Google Men's Vintage Badge Tee Black,Apparel,2,7.6,140.68,Used,SALE20,20,Credit Card,Toll Priority,2
+13319,32917,17/07/2024,GGOEGADC059317,Google Men's Airflow 1/4 Zip Pullover Lapis,Apparel,1,34.99,6,Used,SALE10,10,PayPal,StarTrack Express,2
+16948,38229,15/09/2024,GGOENEBB081499,Nest Cam Indoor Security Camera - CA,Nest-Canada,1,149,8.7,Used,NCA30,30,Credit Card,Australia Post Courier,1
+14587,36429,23/08/2024,GGOEGDHC074099,Google 17oz Stainless Steel Sport Bottle,Drinkware,1,16.79,6,Not Used,no,0,PayPal,Australia Post Courier,3
+16270,32480,7/12/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC10,10,PayPal,StarTrack Express,5
+17838,19027,27/01/2024,GGOEGALP036314,Google Women's Long Sleeve Tee Lavender,Apparel,3,19.8,98.74,Used,SALE10,10,Credit Card,Toll Priority,1
+14659,43856,19/11/2024,GGOEGAYR068225,Google Youth Short Sleeve Tee Red,Apparel,1,10.63,6,Not Used,no,0,PayPal,Australia Post Courier,1
+15044,32574,13/07/2024,GGOEAAEH035214,Android Men's Vintage Henley,Apparel,1,7.2,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+16186,18830,25/01/2024,GGOEGDHC082299,Google 25 oz Blue Stainless Steel Bottle,Drinkware,1,11.54,6.5,Used,EXTRA10,10,Credit Card,Australia Post Courier,3
+13385,37009,30/08/2024,GGOEGHGH019699,Google Sunglasses,Lifestyle,10,2.8,6,Not Used,no,0,Credit Card,Australia Post Express,4
+13124,30055,6/10/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC30,30,PayPal,StarTrack Express,5
+16714,42305,11/01/2024,GGOEGDHR018499,Google 22 oz Water Bottle,Drinkware,1,2.99,6,Not Used,no,0,Credit Card,StarTrack Express,3
+15881,26804,30/04/2024,GGOEGOAR021999,Color Changing Grip Pen,Office,30,1.5,6,Used,OFF10,10,Credit Card,Australia Post Express,1
+16814,33110,18/07/2024,GGOEGAEJ030816,Google Women's Long Sleeve Blended Cardigan Charcoal,Apparel,1,16.79,6,Not Used,no,0,Venmo,StarTrack Express,3
+17611,40152,10/09/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,1,199,6,Used,NE10,10,Credit Card,Australia Post Express,5
+16771,46767,13/12/2024,GGOEGAEL091316,Google Crewneck Sweatshirt Navy,Apparel,1,42.39,6.5,Not Used,no,0,Venmo,Australia Post Express,2
+15535,37463,9/05/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,5,79,12.99,Used,ELEC30,30,Venmo,CouriersPlease,2
+15998,27652,5/09/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,5,79,6,Not Used,no,0,PayPal,Australia Post Express,4
+17739,35774,16/08/2024,GGOEGALQ036614,Google Women's Scoop Neck Tee White,Apparel,1,4.8,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+12826,38765,22/09/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,349,6,Used,NE30,30,Debit Card,Australia Post Express,2
+16143,32073,7/07/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,3,149,6,Used,ELEC10,10,Credit Card,StarTrack Express,3
+17841,36376,23/08/2024,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Office,1,1.99,6,Used,OFF20,20,Credit Card,Australia Post Express,2
+15719,47366,18/12/2024,GGOEYALQ091915,YouTube Women's Favorite Tee White,Apparel,1,17.93,22.71,Used,SALE30,30,PayPal,Toll Priority,1
+12626,37696,9/08/2024,GGOEGBRJ037399,Google Rucksack,Bags,1,69.99,6,Used,AIO30,30,Credit Card,Australia Post Express,4
+14527,29785,6/07/2024,GGOEGHGC019799,Google Sunglasses,Lifestyle,2,3.5,19.99,Used,EXTRA30,30,Credit Card,Toll Priority,4
+13269,28307,18/05/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Used,ELEC20,20,Credit Card,Australia Post Express,2
+17450,35883,17/08/2024,GGOEGAAQ033913,Google Men's Vintage Badge Tee White,Apparel,1,4.56,6,Used,SALE20,20,PayPal,Australia Post Courier,2
+17890,28367,19/05/2024,GGOEGDHR018499,Google 22 oz Water Bottle,Drinkware,3,2.99,6,Not Used,no,0,Credit Card,Australia Post Courier,2
+14040,44170,22/11/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3,79,6.5,Used,ELEC20,20,Credit Card,StarTrack Express,4
+13458,33829,27/07/2024,GGOEGOAQ012899,Ballpoint LED Light Pen,Office,5,2.5,6,Not Used,no,0,Credit Card,Australia Post Courier,4
+14769,31260,26/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC30,30,Credit Card,Australia Post Courier,5
+16520,25665,16/04/2024,GGOEGOCC017599,Recycled Paper Journal Set,Office,1,3.19,6,Used,OFF10,10,Debit Card,Australia Post Express,2
+17377,17296,1/06/2024,GGOEGAEC033115,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1,25.78,6.5,Used,SALE10,10,Credit Card,Australia Post Express,3
+12842,48002,23/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,6.5,Not Used,no,0,Credit Card,Australia Post Courier,2
+18077,41099,19/10/2024,GGOENEBQ086799,Nest Thermostat E - USA,Nest,1,99,12.99,Used,NE10,10,Venmo,CouriersPlease,5
+13124,30027,6/10/2024,GGOEAAYC068725,Android Youth Short Sleeve T-shirt Aqua,Apparel,1,15.19,6,Used,SALE30,30,Debit Card,Australia Post Express,2
+14092,30835,20/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,19.99,Not Used,no,0,Credit Card,Toll Priority,4
+16065,25605,14/04/2024,GGOEAKDH019899,Windup Android,Lifestyle,4,3.99,6,Used,EXTRA10,10,PayPal,Australia Post Express,3
+16795,25802,17/04/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Used,ELEC10,10,Credit Card,StarTrack Express,4
+17238,39767,10/04/2024,GGOEGHGR019499,Google Sunglasses,Lifestyle,5,2.8,12.48,Used,EXTRA10,10,PayPal,CouriersPlease,2
+12501,34560,8/03/2024,GGOEGHGR019499,Google Sunglasses,Lifestyle,1,2.8,6,Used,EXTRA20,20,Debit Card,Australia Post Express,4
+13148,44451,24/11/2024,GGOEWAEA083899,Waze Dress Socks,Waze,1,8.99,6,Used,WEMP20,20,Credit Card,StarTrack Express,3
+13069,48244,27/12/2024,GGOEGAEB091113,Google Zip Hoodie Black,Apparel,1,48.92,6.5,Used,SALE30,30,Venmo,Australia Post Courier,3
+12480,34818,8/06/2024,GGOEAAEJ035713,Android Men's Vintage Tank,Apparel,1,8.4,6,Not Used,no,0,Credit Card,Australia Post Express,1
+14657,38081,13/09/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Used,ELEC30,30,PayPal,Australia Post Express,5
+17085,31956,7/06/2024,GGOEGAAB033817,Google Men's Vintage Badge Tee Black,Apparel,1,10.63,6,Used,SALE10,10,PayPal,Australia Post Courier,3
+15448,44908,27/11/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2,149,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,4
+18179,34717,8/04/2024,GGOEGHGT019599,Google Sunglasses,Lifestyle,1,2.8,6,Used,EXTRA20,20,Credit Card,Australia Post Express,4
+17404,29143,30/05/2024,GGOEGOAA017099,Ballpoint Stick Pen 4 Pack,Office,20,3.19,18.36,Not Used,no,0,PayPal,Toll Priority,2
+18245,31838,7/05/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC10,10,Credit Card,Australia Post Courier,5
+17213,43177,11/11/2024,GGOEGHGH019699,Google Sunglasses,Lifestyle,1,2.8,6,Used,EXTRA20,20,Credit Card,Australia Post Express,2
+12483,33086,18/07/2024,GGOEAAAJ032915,Android Men's Skater Badge Tee Charcoal,Apparel,1,6,6,Not Used,no,0,Credit Card,StarTrack Express,2
+13305,18451,20/01/2024,GGOEGOXQ016399,Badge Holder,Office,1,2.05,6.5,Used,OFF10,10,Credit Card,Australia Post Courier,4
+13094,22030,3/04/2024,GGOEYDHJ019399,24 oz YouTube Sergeant Stripe Bottle,Drinkware,12,6.39,35.3,Used,EXTRA30,30,PayPal,Toll Priority,3
+17059,20715,17/02/2024,GGOEGHPJ080310,Google Blackout Cap,Headgear,1,15.19,6.5,Not Used,no,0,Credit Card,Australia Post Courier,3
+15443,40088,10/08/2024,GGOEGAAJ032313,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1,13.29,6,Not Used,no,0,Credit Card,Australia Post Express,2
+17850,18924,26/01/2024,GGOEGBCR024399,Google Lunch Bag,Bags,2,14.43,6.5,Used,AIO10,10,Credit Card,Australia Post Express,3
+13869,31441,28/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,3,119,6,Used,ELEC30,30,Credit Card,Australia Post Express,3
+13077,24997,4/07/2024,GGOEGOBG023599,Colored Pencil Set,Office,2,2.99,6.5,Used,OFF10,10,PayPal,StarTrack Express,4
+14462,48066,25/12/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,355.74,6.5,Not Used,no,0,Credit Card,Australia Post Courier,4
+13782,37431,9/05/2024,GGOEGAAB010516,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1,13.59,6,Not Used,no,0,Venmo,Australia Post Courier,3
+15061,41914,27/10/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,2,349,6,Not Used,no,0,Credit Card,Australia Post Express,3
+14290,27917,5/12/2024,GGOEGAAQ010414,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,1,16.99,6,Used,SALE20,20,PayPal,Australia Post Express,3
+16515,45992,12/07/2024,GGOEGOLC014299,Google Metallic Notebook Set,Office,6,4.88,12.48,Not Used,no,0,PayPal,CouriersPlease,4
+14733,23539,20/03/2024,GGOEGOAQ015999,Gel Roller Pen,Office,1,2.8,6.5,Used,OFF30,30,Credit Card,Australia Post Express,1
+14680,19541,2/02/2024,GGOEGOCC017599,Recycled Paper Journal Set,Office,1,3.19,6.5,Used,OFF20,20,Debit Card,Australia Post Express,3
+13495,29674,6/05/2024,GGOEGBFC018799,Electronics Accessory Pouch,Bags,6,3.99,12.99,Used,AIO30,30,Credit Card,CouriersPlease,2
+13089,41922,27/10/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,4,79,6,Not Used,no,0,PayPal,Australia Post Courier,5
+15898,22083,3/05/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6.5,Used,ELEC30,30,Venmo,Australia Post Express,5
+13649,24984,4/07/2024,GGOEGFSR022099,Google Kick Ball,Lifestyle,10,1.59,26.43,Used,EXTRA10,10,PayPal,Toll Priority,3
+16714,42281,11/01/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,349,6,Used,NE20,20,Credit Card,Australia Post Courier,3
+17069,31927,7/05/2024,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,1,2.39,6,Not Used,no,0,Cash,Australia Post Express,4
+15605,17564,1/10/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,5,81.5,6.5,Used,ELEC10,10,Credit Card,Australia Post Express,3
+15983,17205,1/05/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,5,81.5,6.5,Used,ELEC10,10,Credit Card,Australia Post Express,4
+16059,23472,20/03/2024,GGOEYAXR066130,You Tube Toddler Short Sleeve Tee Red,Apparel,1,16.99,6.5,Used,SALE30,30,Credit Card,Australia Post Courier,3
+15189,36019,18/08/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,Credit Card,Australia Post Express,4
+16710,22735,13/03/2024,GGOEGATJ060515,Google Women's Quilted Insulated Vest White,Apparel,1,41.99,6.5,Used,SALE30,30,PayPal,Australia Post Express,2
+16983,20675,17/02/2024,GGOEGAEB084513,BLM Sweatshirt,Apparel,1,33.59,6.5,Used,SALE20,20,Credit Card,Australia Post Courier,4
+17609,37618,9/07/2024,GGOEGALJ034414,Google Women's Vintage Hero Tee Platinum,Apparel,1,4.56,6,Used,SALE30,30,Credit Card,Australia Post Courier,2
+16033,20119,2/10/2024,GGOEYAQB073213,YouTube Women's Fleece Hoodie Black,Apparel,1,55.99,175.14,Not Used,no,0,Credit Card,Toll Priority,2
+17372,27400,5/06/2024,GGOEGAAJ073015,Google Men's Performance Hero Tee Gunmetal,Apparel,1,15.39,6,Not Used,no,0,PayPal,Australia Post Courier,1
+13230,40182,10/09/2024,GGOEGOAB015899,Rainbow Stylus Pen,Office,4,1.5,12.99,Not Used,no,0,Cash,CouriersPlease,3
+13742,40312,10/10/2024,GGOEGOXQ016399,Badge Holder,Office,1,1.99,6,Used,OFF10,10,Credit Card,StarTrack Express,4
+14978,36762,27/08/2024,GGOEGFSR022099,Google Kick Ball,Lifestyle,1,1.59,6,Not Used,no,0,PayPal,StarTrack Express,3
+14702,34342,8/01/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,Credit Card,StarTrack Express,4
+16493,36962,30/08/2024,GGOEGALB034114,Google Women's Vintage Hero Tee Black,Apparel,1,5.7,19.99,Used,SALE20,20,Credit Card,Toll Priority,2
+12997,42505,11/03/2024,GGOEGHGH019699,Google Sunglasses,Lifestyle,20,2.8,12.48,Used,EXTRA20,20,Credit Card,CouriersPlease,2
+15033,37199,9/01/2024,GGOEYAAJ032515,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,1,15.19,6,Used,SALE30,30,Credit Card,Australia Post Courier,3
+17975,33045,18/07/2024,GGOEGADJ057115,Google Men's Performance 1/4 Zip Pullover Heather/Black,Apparel,1,33,6,Used,SALE10,10,Credit Card,Australia Post Courier,3
+12539,42821,11/07/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,5,79,6,Used,ELEC20,20,PayPal,Australia Post Courier,3
+15356,28718,23/05/2024,GGOEYAEJ029013,YouTube Women's Short Sleeve Hero Tee Charcoal,Apparel,1,15.19,12.99,Used,SALE20,20,PayPal,CouriersPlease,1
+18116,32793,16/07/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6,Used,ELEC10,10,Venmo,Australia Post Courier,4
+12583,16696,1/01/2024,GGOEGPJR018999,7&quot; Dog Frisbee,Lifestyle,1,1.24,6.5,Used,EXTRA10,10,Credit Card,Australia Post Courier,2
+16725,30200,6/12/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,200,2.99,12.99,Used,OFF30,30,Debit Card,CouriersPlease,5
+12766,24883,4/05/2024,GGOEAAAB034817,Android BTTF Cosmos Graphic Tee,Apparel,1,15.99,6.5,Not Used,no,0,Credit Card,Australia Post Courier,1
+13108,18155,18/01/2024,GGOEGCKQ013199,1 oz Hand Sanitizer,Lifestyle,52,1.97,6.5,Not Used,no,0,Credit Card,Australia Post Courier,3
+17511,45683,12/05/2024,GGOENEBQ081599,Nest Cam Outdoor Security Camera - CA,Nest-Canada,2,151.88,8.7,Not Used,no,0,Venmo,StarTrack Express,1
+17580,30807,20/06/2024,GGOEGOLC013299,Spiral Notebook and Pen Set,Office,14,4.79,58.49,Used,OFF30,30,Credit Card,Toll Priority,2
+14135,23746,21/03/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC30,30,Credit Card,Australia Post Courier,3
+14527,25541,14/04/2024,GGOEGAAR010715,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1,13.59,6,Used,SALE10,10,PayPal,Australia Post Courier,3
+15311,35819,16/08/2024,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,100,1.39,12.99,Used,EXTRA20,20,Credit Card,CouriersPlease,3
+12472,21449,27/02/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+18245,44987,28/11/2024,GGOEGAUC057714,Google Women's Performance Golf Polo Blue,Apparel,1,14.5,6,Not Used,no,0,Credit Card,Australia Post Express,2
+12748,25247,4/10/2024,GGOENEBJ081899,Nest Learning Thermostat 3rd Gen - CA - Stainless Steel,Nest-Canada,1,199,8.7,Used,NCA10,10,Credit Card,Australia Post Courier,1
+14532,32614,13/07/2024,GGOEGHPB003410,Google Snapback Hat Black,Headgear,2,9.2,6,Used,HGEAR10,10,Credit Card,Australia Post Courier,2
+18256,31893,7/05/2024,GGOEGAWQ062250,Google Infant Short Sleeve Tee White,Apparel,1,13.59,6,Not Used,no,0,Venmo,Australia Post Courier,3
+13473,35835,16/08/2024,GGOEGFAQ016699,Bottle Opener Clip,Drinkware,10,3.5,6,Not Used,no,0,Credit Card,Australia Post Courier,1
+14270,36246,22/08/2024,GGOEGADC059516,Google Men's Microfiber 1/4 Zip Pullover Blue/Indigo,Apparel,1,30,6,Not Used,no,0,Credit Card,Australia Post Express,2
+16244,18370,19/01/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,122.77,6.5,Used,ELEC10,10,Credit Card,Australia Post Courier,3
+16814,43219,11/12/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.99,6,Not Used,no,0,Debit Card,Australia Post Express,2
+13174,21759,3/02/2024,GGOEGAEJ035314,Google Vintage Henley Grey/Black,Apparel,3,29.99,6.5,Used,SALE30,30,Venmo,Australia Post Courier,2
+14146,43637,16/11/2024,GGOEGAEJ028115,Google Women's Short Sleeve Badge Tee Grey,Apparel,1,3.4,6,Used,SALE20,20,Credit Card,Australia Post Courier,3
+16033,33437,22/07/2024,GGOEGAAB010514,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1,13.59,6,Not Used,no,0,Debit Card,StarTrack Express,4
+14723,19801,2/06/2024,GGOEGDHC082299,Google 25 oz Blue Stainless Steel Bottle,Drinkware,20,13.99,6.5,Not Used,no,0,Credit Card,Australia Post Courier,2
+12681,32166,7/09/2024,GGOEYAAJ033015,YouTube Men's Skater Tee Charcoal,Apparel,1,13.99,6,Used,SALE10,10,Venmo,Australia Post Express,3
+12472,42106,30/10/2024,GGOEYAQB073217,YouTube Women's Fleece Hoodie Black,Apparel,1,11.2,6,Used,SALE10,10,Credit Card,StarTrack Express,3
+14395,19221,30/01/2024,GGOEGBRD079699,25L Classic Rucksack,Backpacks,1,82.52,20.74,Not Used,no,0,PayPal,Toll Priority,1
+15789,30781,19/06/2024,GGOEGAEJ035314,Google Vintage Henley Grey/Black,Apparel,1,23.99,12.48,Not Used,no,0,PayPal,CouriersPlease,1
+18065,26740,29/04/2024,GGOEGAAB010514,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1,16.99,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+15898,22073,3/05/2024,GGOEGHPB003410,Google Snapback Hat Black,Headgear,1,22.99,6.5,Used,HGEAR30,30,Venmo,Australia Post Express,1
+14573,19315,31/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,3,153.71,6.5,Used,ELEC10,10,Credit Card,StarTrack Express,4
+16719,22254,3/07/2024,GGOEGOCB017499,Leatherette Journal,Office,25,8.79,64.01,Not Used,no,0,Credit Card,Toll Priority,2
+17591,24050,25/03/2024,GGOEGAAB058918,Google Men's Short Sleeve Performance Badge Tee Black,Apparel,2,17.59,6.5,Used,SALE30,30,PayPal,Australia Post Courier,1
+15894,21375,26/02/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3,79,6.5,Used,ELEC20,20,PayPal,StarTrack Express,4
+15012,17390,1/08/2024,GGOEYAAB031817,YouTube Men's Short Sleeve Hero Tee Black,Apparel,1,17.53,30,Used,SALE10,10,Credit Card,Toll Priority,2
+18118,20508,15/02/2024,GGOEGDHB072099,Google Insulated Stainless Steel Bottle,Drinkware,5,19.99,6.5,Used,EXTRA20,20,Credit Card,Australia Post Express,3
+13767,30906,21/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC30,30,Credit Card,StarTrack Express,4
+17861,40618,13/10/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3,79,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+13523,24935,4/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC10,10,Credit Card,Australia Post Express,4
+12417,41045,18/10/2024,GGOEGHGC019799,Google Sunglasses,Lifestyle,1,2.8,6,Used,EXTRA10,10,Credit Card,Australia Post Courier,3
+14665,46387,12/11/2024,GGOEWAAJ083513,Waze Men's Typography Short Sleeve Tee,Waze,1,19.36,6,Used,WEMP30,30,Credit Card,Australia Post Express,2
+16206,37402,9/05/2024,GGOEYFKQ020699,YouTube Custom Decals,Office,5,1.59,50.93,Not Used,no,0,PayPal,Toll Priority,3
+16919,29303,31/05/2024,GGOEGAAQ010414,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,1,16.99,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+14606,36436,23/08/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,Credit Card,Australia Post Express,5
+12683,38059,13/09/2024,GGOEGAEC029114,Google Women's Short Sleeve Hero Tee Sky Blue,Apparel,7,18.99,6,Used,SALE30,30,Credit Card,Australia Post Express,2
+12753,27340,5/05/2024,GGOEGAAR010715,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1,13.59,6,Used,SALE20,20,PayPal,Australia Post Express,4
+13394,47099,16/12/2024,GGOEGHPB071610,Google Twill Cap,Apparel,1,11.2,6,Used,SALE30,30,PayPal,Australia Post Courier,2
+17602,38952,25/09/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC30,30,PayPal,Australia Post Express,2
+13798,26963,5/01/2024,GGOEGKAA019299,Switch Tone Color Crayon Pen,Office,1,1.59,15.75,Used,OFF20,20,Credit Card,Toll Priority,3
+16477,40465,10/11/2024,GGOEAAAJ031913,Android Men's Short Sleeve Hero Tee Heather,Apparel,2,5.7,6,Used,SALE10,10,PayPal,Australia Post Courier,2
+13494,45894,12/06/2024,GGOEGADC059314,Google Men's Airflow 1/4 Zip Pullover Lapis,Apparel,1,28.54,6.5,Used,SALE30,30,Credit Card,Australia Post Express,3
+17611,38855,24/09/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6,Used,ELEC30,30,PayPal,StarTrack Express,5
+14829,19058,28/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,153.71,6.5,Used,ELEC10,10,Credit Card,StarTrack Express,4
+14085,28160,16/05/2024,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Office,10,1.59,6,Used,OFF20,20,Credit Card,Australia Post Express,2
+15024,23818,22/03/2024,GGOEAAEC029416,Android Women's Short Sleeve Tri-blend Badge Tee Light Blue,Apparel,1,15.19,15.75,Not Used,no,0,PayPal,Toll Priority,3
+15028,22537,3/10/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC30,30,Credit Card,Australia Post Courier,3
+15426,21305,24/02/2024,GGOEGBFC018799,Electronics Accessory Pouch,Bags,25,4.99,6.5,Used,AIO20,20,Credit Card,Australia Post Express,3
+14800,20268,13/02/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,Credit Card,Australia Post Express,5
+17306,39835,10/04/2024,GGOEGALP034315,Google Women's Vintage Hero Tee Lavender,Apparel,1,7.6,6,Used,SALE10,10,Credit Card,Australia Post Courier,3
+16779,34617,8/03/2024,GGOEGBRB079599,25L Classic Rucksack,Backpacks,1,99.99,6,Used,ELEC10,10,PayPal,Australia Post Courier,2
+13881,45612,12/04/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,151.88,6.5,Not Used,no,0,PayPal,Australia Post Courier,2
+12738,19257,30/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used,ELEC10,10,Credit Card,StarTrack Express,3
+14404,21742,3/02/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,Credit Card,StarTrack Express,5
+17820,30215,6/12/2024,GGOEGALQ034215,Google Women's Vintage Hero Tee White,Apparel,6,18.99,12.99,Used,SALE30,30,Credit Card,CouriersPlease,3
+16293,24012,24/03/2024,GGOEAAYJ068824,Android Youth Short Sleeve T-shirt Pewter,Apparel,1,18.99,6.5,Used,SALE30,30,PayPal,Australia Post Courier,2
+17238,19956,2/08/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6.5,Used,ELEC20,20,Credit Card,StarTrack Express,4
+13531,25005,4/07/2024,GGOEGAUB058316,Google Women's Performance Polo Grey/Black,Apparel,11,62.99,6.5,Used,SALE10,10,Credit Card,Australia Post Courier,2
+14083,19576,2/03/2024,GGOEGAFJ036216,Google Men's Pullover Hoodie Grey,Apparel,1,41.59,6.5,Not Used,no,0,Credit Card,StarTrack Express,1
+14210,33023,18/07/2024,GGOENEBB081499,Nest Cam Indoor Security Camera - CA,Nest-Canada,2,149,8.7,Used,NCA10,10,PayPal,Australia Post Courier,2
+17999,25038,4/07/2024,GGOEGBPB081999,UpCycled Bike Saddle Bag,Accessories,1,49.99,6.5,Used,ACC10,10,Credit Card,StarTrack Express,2
+17591,40656,13/10/2024,GGOEGFKA022299,Keyboard DOT Sticker,Office,3,1.5,6,Used,OFF10,10,Credit Card,Australia Post Courier,3
+17284,34728,8/04/2024,GGOEADHH073999,Android 17oz Stainless Steel Sport Bottle,Drinkware,2,10.63,6,Used,EXTRA20,20,Credit Card,StarTrack Express,5
+12668,45220,30/11/2024,GGOEGAEB027815,Google Women's Short Sleeve Hero Tee Black,Apparel,1,6.8,12.48,Used,SALE20,20,Venmo,CouriersPlease,2
+15498,33213,19/07/2024,GGOEAAAL081115,Android Men's Pep Rally Short Sleeve Tee Navy,Apparel,1,9.99,6,Used,SALE10,10,PayPal,StarTrack Express,1
+17406,35723,15/08/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+12672,36994,30/08/2024,GGOEGAAC035013,Google Men's Bayside Graphic Tee,Apparel,1,19.99,6,Used,SALE20,20,Credit Card,StarTrack Express,3
+16186,18830,25/01/2024,GGOEGPJR018999,7&quot; Dog Frisbee,Lifestyle,2,1.24,6.5,Not Used,no,0,Credit Card,Australia Post Courier,3
+12540,39129,27/09/2024,GGOEGADC059316,Google Men's Airflow 1/4 Zip Pullover Lapis,Apparel,1,28,12.99,Used,SALE30,30,Debit Card,CouriersPlease,3
+12348,31049,22/06/2024,GGOEGOCR017899,Recycled Paper Journal Set,Office,2,3.99,6,Used,OFF30,30,PayPal,Australia Post Courier,3
+12539,42848,11/07/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,24.49,Not Used,no,0,Debit Card,Toll Priority,5
+18004,27676,5/10/2024,GGOEGAAL059016,Google Men's Short Sleeve Performance Badge Tee Navy,Apparel,1,12.31,16.85,Not Used,no,0,Debit Card,Toll Priority,2
+17315,32848,16/07/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Used,ELEC10,10,Cash,Australia Post Courier,3
+15513,25274,4/11/2024,GGOEGAEJ028013,Google Women's Short Sleeve Hero Tee Grey,Apparel,1,11.89,6.5,Used,SALE10,10,Venmo,Australia Post Courier,1
+17912,30209,6/12/2024,GGOEAHPJ004314,Android Stretch Fit Hat M/L,Headgear,1,15.39,6,Used,HGEAR30,30,Venmo,Australia Post Express,2
+12350,46881,14/12/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,121.3,6.5,Used,ELEC30,30,Credit Card,StarTrack Express,2
+13183,34905,8/07/2024,GGOEYAFB073115,YouTube Men's Fleece Hoodie Black,Apparel,1,31.35,19.99,Used,SALE20,20,Venmo,Toll Priority,3
+14911,31059,23/06/2024,GGOEGADJ057114,Google Men's Performance 1/4 Zip Pullover Heather/Black,Apparel,1,61.59,12.48,Not Used,no,0,PayPal,CouriersPlease,2
+16523,43767,17/11/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.99,6,Used,OFF20,20,Venmo,Australia Post Express,4
+12838,17149,1/05/2024,GGOEGDHQ015399,26 oz Double Wall Insulated Bottle,Drinkware,1,20.62,12.76,Used,EXTRA10,10,Debit Card,CouriersPlease,5
+16795,25798,17/04/2024,GGOEGAYH068424,Google Youth Short Sleeve T-shirt Green,Apparel,1,10.63,6,Not Used,no,0,PayPal,Australia Post Express,2
+15235,32672,14/07/2024,GGOEGALJ034415,Google Women's Vintage Hero Tee Platinum,Apparel,1,5.7,6,Used,SALE10,10,Venmo,Australia Post Express,2
+15290,30127,6/11/2024,GGOENEBD084799,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1,149,6,Not Used,no,0,Debit Card,Australia Post Courier,3
+15032,24758,4/04/2024,GGOEYFKQ020699,YouTube Custom Decals,Office,10,1.59,15.72,Used,OFF10,10,Credit Card,Toll Priority,4
+12744,41547,24/10/2024,GGOENEBQ092399,Nest Cam IQ Outdoor - USA (Preorder),Nest,1,279,6,Not Used,no,0,PayPal,StarTrack Express,3
+17035,45938,12/07/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.44,6.5,Used,OFF30,30,Credit Card,StarTrack Express,4
+13488,36343,22/08/2024,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Bags,1,12.79,6,Used,AIO20,20,Credit Card,Australia Post Express,2
+13093,30292,13/06/2024,GGOEGBCR024399,Google Lunch Bag,Bags,2,13.99,6,Used,AIO30,30,Credit Card,StarTrack Express,2
+17431,44550,25/11/2024,GGOEGAEB027815,Google Women's Short Sleeve Hero Tee Black,Apparel,1,16.99,6,Not Used,no,0,PayPal,Australia Post Courier,3
+18116,26645,28/04/2024,GGOEGFSR022099,Google Kick Ball,Lifestyle,25,1.99,6,Not Used,no,0,PayPal,StarTrack Express,3
+12957,32940,17/07/2024,GGOEGAAL010615,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,2,13.59,26.43,Used,SALE10,10,Credit Card,Toll Priority,4
+12808,22022,3/04/2024,GGOEGOAC021799,Ballpoint Pen Blue,Office,84,0.99,6.5,Not Used,no,0,Credit Card,Australia Post Courier,2
+15894,21371,26/02/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+14775,19091,29/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Not Used,no,0,PayPal,Australia Post Courier,3
+15039,40614,13/10/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,4,119,6,Used,ELEC10,10,Venmo,Australia Post Express,5
+16745,45844,12/06/2024,GGOEYAEJ092116,YouTube 3 lines Tee Grey,Apparel,1,17.93,12.91,Used,SALE30,30,Credit Card,CouriersPlease,1
+13174,21782,3/03/2024,GGOEGAAJ032814,Google Men's Long & Lean Tee Charcoal,Apparel,2,19.99,6.5,Not Used,no,0,PayPal,StarTrack Express,2
+13982,37912,9/11/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,12.99,Used,ELEC30,30,Credit Card,CouriersPlease,5
+17841,19839,2/07/2024,GGOEGDHB072099,Google Insulated Stainless Steel Bottle,Drinkware,1,15.99,35.3,Used,EXTRA20,20,Credit Card,Toll Priority,4
+16805,29209,31/05/2024,GGOEGGOA017399,Maze Pen,Office,5,0.79,12.91,Used,OFF20,20,PayPal,CouriersPlease,4
+17118,42085,30/10/2024,GGOEAAWJ062550,Android Infant Short Sleeve Tee Pewter,Apparel,1,13.59,6,Not Used,no,0,Debit Card,StarTrack Express,3
+17365,35978,18/08/2024,GGOEGAFJ036217,Google Men's Pullover Hoodie Grey,Apparel,1,29.11,6,Used,SALE20,20,Credit Card,Australia Post Express,2
+18145,45039,28/11/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1,79,6.5,Used,ELEC20,20,Debit Card,Australia Post Express,4
+15235,32678,14/07/2024,GGOEGFKQ020799,Google Doodle Decal,Office,2,2.39,102.74,Used,OFF10,10,Credit Card,Toll Priority,3
+16059,23474,20/03/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6.5,Not Used,no,0,PayPal,StarTrack Express,5
+17800,35205,8/10/2024,GGOEADWQ015699,Android Rise 14 oz Mug,Drinkware,1,10.39,6.5,Used,EXTRA20,20,Debit Card,Australia Post Courier,4
+12472,21428,27/02/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,PayPal,StarTrack Express,4
+16714,42276,11/01/2024,GGOEYAQB073217,YouTube Women's Fleece Hoodie Black,Apparel,2,11.2,6,Not Used,no,0,PayPal,StarTrack Express,3
+15058,45426,12/02/2024,GGOEGBRJ037399,Google Rucksack,Bags,2,57.07,6.5,Not Used,no,0,Credit Card,Australia Post Courier,4
+14606,32900,17/07/2024,GGOEGHPB080410,Google 5-Panel Snapback Cap,Headgear,3,10.63,12.91,Used,HGEAR10,10,Cash,CouriersPlease,3
+17400,32540,13/07/2024,GGOEGHPB071610,Google Twill Cap,Apparel,1,8.79,6,Not Used,no,0,PayPal,Australia Post Express,4
+12474,37325,9/04/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6,Used,ELEC30,30,Credit Card,Australia Post Express,3
+14159,27251,5/04/2024,GGOEAFKQ020499,8 pc Android Sticker Sheet,Office,3,1.99,6,Not Used,no,0,Credit Card,StarTrack Express,3
+12643,35951,18/08/2024,GGOEGAPJ058014,Google Women's 1/4 Zip Jacket Charcoal,Apparel,1,44,6,Used,SALE20,20,Credit Card,Australia Post Courier,1
+12708,36999,30/08/2024,GGOEGGOA017399,Maze Pen,Office,100,0.79,22.71,Used,OFF20,20,PayPal,Toll Priority,2
+15346,35936,17/08/2024,GGOEAHPB076114,Android Stretch Fit Hat,Apparel,1,12.31,6,Not Used,no,0,Credit Card,Australia Post Courier,1
+17220,44962,28/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,12.99,Used,ELEC20,20,Credit Card,CouriersPlease,5
+16422,38234,15/09/2024,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,100,2.99,6,Not Used,no,0,Credit Card,StarTrack Express,3
+13148,44359,23/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+12753,27337,5/05/2024,GGOEGDHQ015399,26 oz Double Wall Insulated Bottle,Drinkware,1,24.99,6,Used,EXTRA20,20,Credit Card,StarTrack Express,4
+12681,33421,22/07/2024,GGOEGOAB022499,Satin Black Ballpoint Pen,Office,1,12,6,Used,OFF10,10,Credit Card,Australia Post Courier,3
+14653,33480,23/07/2024,GGOEGOAB022499,Satin Black Ballpoint Pen,Office,1,12,6,Used,OFF10,10,Credit Card,StarTrack Express,3
+16770,19018,27/01/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,122.77,6.5,Used,ELEC10,10,PayPal,Australia Post Courier,3
+13705,16856,1/03/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,81.5,6.5,Not Used,no,0,Credit Card,Australia Post Courier,3
+13093,36770,28/08/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6,Used,ELEC20,20,Venmo,Australia Post Courier,5
+17259,22600,3/11/2024,GGOEGAQB036014,Google Women's Fleece Hoodie,Apparel,1,55.99,6.5,Not Used,no,0,PayPal,StarTrack Express,2
+14081,21692,3/02/2024,GGOEGOBG023599,Colored Pencil Set,Office,5,2.39,6.5,Used,OFF30,30,Credit Card,StarTrack Express,3
+16931,20340,14/02/2024,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,20,2.39,13.78,Used,EXTRA20,20,Credit Card,CouriersPlease,3
+14088,39686,10/03/2024,GGOEGALQ036616,Google Women's Scoop Neck Tee White,Apparel,1,4.8,6,Used,SALE10,10,Credit Card,StarTrack Express,1
+17019,22648,3/12/2024,GGOENEBB079399,Nest Protect Smoke + CO Black Wired Alarm-USA,Nest-USA,1,99,6.5,Not Used,no,0,Credit Card,Australia Post Express,3
+13838,20161,2/11/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6.5,Not Used,no,0,Credit Card,Australia Post Express,5
+15708,20117,2/10/2024,GGOEGOAC021799,Ballpoint Pen Blue,Office,15,0.99,6.5,Not Used,no,0,Credit Card,Australia Post Courier,2
+15570,37204,9/01/2024,GGOEYOCR077799,YouTube Hard Cover Journal,Notebooks & Journals,62,14.99,6,Not Used,no,0,Credit Card,Australia Post Courier,1
+15052,40914,17/10/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,4,149,6,Used,ELEC10,10,Credit Card,Australia Post Courier,4
+14657,38071,13/09/2024,GGOEGALB036513,Google Women's Scoop Neck Tee Black,Apparel,1,6,6,Used,SALE30,30,Credit Card,Australia Post Express,3
+16395,36773,28/08/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Not Used,no,0,PayPal,Australia Post Courier,5
+15005,46719,13/12/2024,GGOEYALQ091913,YouTube Women's Favorite Tee White,Apparel,2,17.93,12.99,Used,SALE30,30,Credit Card,CouriersPlease,3
+14657,38093,13/09/2024,GGOEGAAC032117,Google Men's Short Sleeve Hero Tee Light Blue,Apparel,2,18.99,6,Not Used,no,0,PayPal,Australia Post Express,3
+12637,39090,26/09/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Not Used,no,0,Credit Card,Australia Post Courier,4
+14544,28066,15/05/2024,GGOEGADJ056814,Google Men's Watershed Full Zip Hoodie Grey,Apparel,1,61.59,6,Used,SALE20,20,PayPal,Australia Post Courier,1
+16010,27450,5/07/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,3,119,12.99,Used,ELEC20,20,PayPal,CouriersPlease,2
+14544,28038,15/05/2024,GGOEYAYR068624,YouTube Youth Short Sleeve Tee Red,Apparel,2,15.19,19.99,Not Used,no,0,Credit Card,Toll Priority,2
+14606,48460,31/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,12.99,Used,ELEC30,30,Debit Card,CouriersPlease,5
+17375,45472,12/03/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,151.88,12.99,Used,ELEC30,30,Credit Card,CouriersPlease,5
+18116,30631,17/06/2024,GGOEGAER029713,Google Women's Short Sleeve Hero Tee Red Heather,Apparel,1,15.19,6,Used,SALE30,30,Credit Card,Australia Post Courier,4
+17315,31324,26/06/2024,GGOEAAAJ031913,Android Men's Short Sleeve Hero Tee Heather,Apparel,1,13.29,6,Used,SALE30,30,Debit Card,StarTrack Express,1
+14082,26415,25/04/2024,GGOEGAWN062748,Google Infant Zip Hood Pink,Apparel,1,30.39,6.5,Used,SALE10,10,PayPal,Australia Post Courier,1
+17341,24706,4/03/2024,GGOEGDHC082299,Google 25 oz Blue Stainless Steel Bottle,Drinkware,1,11.19,6.5,Not Used,no,0,Credit Card,Australia Post Express,3
+17314,45631,12/04/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,151.88,6.5,Used,ELEC30,30,Debit Card,Australia Post Express,4
+17044,30201,6/12/2024,GGOEGHPB071610,Google Twill Cap,Apparel,1,10.99,6,Used,SALE30,30,Credit Card,Australia Post Courier,4
+13531,25005,4/07/2024,GGOEGALB059916,Google Women's Short Sleeve Performance Tee Black,Apparel,8,15.39,6.5,Not Used,no,0,Credit Card,Australia Post Courier,1
+16122,35915,17/08/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Not Used,no,0,Credit Card,Australia Post Courier,4
+15601,18186,18/01/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,122.77,6.5,Not Used,no,0,Credit Card,Australia Post Courier,5
+15673,37649,9/07/2024,GGOEAAAB081015,Android Men's Outerstellar Short Sleeve Tee Black,Apparel,1,15.99,6,Used,SALE30,30,PayPal,Australia Post Courier,3
+14723,19799,2/06/2024,GGOEGBRD079699,25L Classic Rucksack,Backpacks,1,79.99,13.78,Used,ELEC10,10,Debit Card,CouriersPlease,1
+17908,17027,1/04/2024,GGOEGDWC020199,Engraved Ceramic Google Mug,Drinkware,1,7.42,6.5,Used,EXTRA10,10,Credit Card,Australia Post Courier,2
+14606,21612,3/01/2024,GGOEGAEQ027913,Google Women's Short Sleeve Hero Tee White,Apparel,1,16.99,24.47,Used,SALE30,30,Debit Card,Toll Priority,4
+17085,27460,5/07/2024,GGOEGAXQ067128,Google Toddler Short Sleeve Tee White,Apparel,1,16.99,12.99,Used,SALE20,20,Debit Card,CouriersPlease,1
+16327,20793,19/02/2024,GGOEYAQB073213,YouTube Women's Fleece Hoodie Black,Apparel,1,55.99,6.5,Used,SALE20,20,Credit Card,Australia Post Express,2
+15194,30600,17/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC30,30,PayPal,Australia Post Express,4
+17504,39484,10/01/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC10,10,Credit Card,Australia Post Courier,3
+12681,45428,12/03/2024,GGOEGHGH019699,Google Sunglasses,Lifestyle,1,3.57,6,Used,EXTRA30,30,Credit Card,Australia Post Express,3
+14395,35369,8/11/2024,GGOEGALB036513,Google Women's Scoop Neck Tee Black,Apparel,1,6,6,Not Used,no,0,Credit Card,StarTrack Express,2
+13502,39040,26/09/2024,GGOEGOLC014299,Google Metallic Notebook Set,Office,5,5.99,6,Used,OFF30,30,PayPal,StarTrack Express,4
+17340,25074,4/08/2024,GGOEGOAQ015999,Gel Roller Pen,Office,10,3.5,6.5,Used,OFF10,10,Credit Card,Australia Post Courier,3
+17621,45134,29/11/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,119,6.5,Used,ELEC20,20,Venmo,Australia Post Express,3
+13385,37021,30/08/2024,GGOEGAAJ059113,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1,8.8,6,Used,SALE20,20,Credit Card,Australia Post Express,1
+17293,28323,18/05/2024,GGOEGAAJ032615,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,1,18.99,6,Not Used,no,0,PayPal,Australia Post Express,3
+14978,42179,31/10/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,349,6,Not Used,no,0,Credit Card,Australia Post Express,3
+13050,32163,7/09/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Used,ELEC10,10,Credit Card,StarTrack Express,5
+17311,42777,11/07/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2,79,6,Used,ELEC20,20,PayPal,StarTrack Express,5
+15034,33709,25/07/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1,79,6,Used,ELEC10,10,PayPal,Australia Post Courier,4
+14410,48491,31/12/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,121.3,6.5,Not Used,no,0,Credit Card,Australia Post Express,3
+15005,29871,6/08/2024,GGOEGAWQ062949,Google Baby Essentials Set,Apparel,1,27.19,6,Used,SALE30,30,PayPal,StarTrack Express,2
+17912,26435,25/04/2024,GGOEYAWJ061453,YouTube Onesie Heather,Apparel,1,19.19,6,Used,SALE10,10,PayPal,Australia Post Courier,2
+17968,17243,1/06/2024,GGOEGBFC018799,Electronics Accessory Pouch,Bags,26,4.95,6.5,Used,AIO10,10,Credit Card,Australia Post Courier,2
+14606,48452,31/12/2024,GGOEAKDH019899,Windup Android,Lifestyle,1,4.07,6,Used,EXTRA30,30,Credit Card,Australia Post Express,5
+14040,36533,24/08/2024,GGOEGALJ060115,Google Women's Short Sleeve Performance Tee Pewter,Apparel,1,5.28,6,Used,SALE20,20,Credit Card,Australia Post Courier,1
+14985,31137,24/06/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC30,30,Credit Card,Australia Post Courier,3
+16904,38627,21/09/2024,GGOEGOBG023599,Colored Pencil Set,Office,3,2.39,6.5,Not Used,no,0,PayPal,StarTrack Express,2
+14449,18779,25/01/2024,GGOEWEBB082699,Waze Mobile Phone Vent Mount,Waze,1,7.21,6.5,Used,WEMP10,10,PayPal,Australia Post Courier,4
+15996,25125,4/09/2024,GGOEGOCT019199,Red Spiral Google Notebook,Office,2,7.99,6.5,Used,OFF10,10,PayPal,Australia Post Courier,3
+15640,28296,18/05/2024,GGOEGAAJ032714,Google Men's Skater Tee Grey,Apparel,1,13.99,6,Used,SALE20,20,Credit Card,Australia Post Express,1
+15005,29892,6/08/2024,GGOEGOCB017499,Leatherette Journal,Office,20,8.79,37.19,Used,OFF30,30,PayPal,Toll Priority,2
+17231,38977,25/09/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,1,199,6,Used,NE30,30,Debit Card,Australia Post Courier,2
+13798,40433,10/11/2024,GGOENEBQ092399,Nest Cam IQ Outdoor - USA (Preorder),Nest,1,279,6,Used,NE10,10,Credit Card,Australia Post Express,4
+12433,25218,4/10/2024,GGOEGAEJ031315,Google Tri-blend Hoodie Grey,Apparel,1,39.99,6.5,Not Used,no,0,PayPal,Australia Post Courier,1
+14505,34169,31/07/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC10,10,Credit Card,StarTrack Express,5
+12748,22360,3/08/2024,GGOEGHGT019599,Google Sunglasses,Lifestyle,1,2.8,24.47,Used,EXTRA30,30,Credit Card,Toll Priority,3
+13668,34915,8/07/2024,GGOEGAAJ032815,Google Men's Long & Lean Tee Charcoal,Apparel,1,6,12.99,Not Used,no,0,Credit Card,CouriersPlease,3
+15601,18173,18/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,153.71,6.5,Used,ELEC10,10,PayPal,Australia Post Express,5
+14805,44203,22/11/2024,GGOEYFKQ020699,YouTube Custom Decals,Office,2,0.5,6,Used,OFF20,20,Credit Card,Australia Post Express,2
+14606,21608,3/01/2024,GGOEGALQ034214,Google Women's Vintage Hero Tee White,Apparel,1,18.99,6.5,Used,SALE30,30,Credit Card,Australia Post Courier,3
+15058,45448,12/03/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,121.3,6.5,Used,ELEC30,30,PayPal,Australia Post Express,2
+13871,47724,20/12/2024,GGOENEBQ086799,Nest Thermostat E - USA,Nest,1,100.91,6.5,Used,NE30,30,Credit Card,Australia Post Courier,3
+14911,32161,7/08/2024,GGOEYAAB031815,YouTube Men's Short Sleeve Hero Tee Black,Apparel,1,16.99,6,Used,SALE10,10,Credit Card,Australia Post Express,2
+13627,31184,25/06/2024,GGOEGAWQ062949,Google Baby Essentials Set,Apparel,1,33.99,12.99,Used,SALE30,30,PayPal,CouriersPlease,3
+12748,20772,19/02/2024,GGOEGAFB035816,Google Men's  Zip Hoodie,Apparel,1,44.79,6.5,Used,SALE20,20,PayPal,Australia Post Express,3
+15174,39469,30/09/2024,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Office,10,2.99,6,Not Used,no,0,Credit Card,StarTrack Express,3
+15311,24867,4/05/2024,GGOEGFSR022099,Google Kick Ball,Lifestyle,1,1.59,6.5,Used,EXTRA10,10,Credit Card,Australia Post Courier,5
+14646,39525,10/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Used,ELEC10,10,PayPal,Australia Post Courier,5
+13178,28898,25/05/2024,GGOEGAAJ080614,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1,15.99,6,Not Used,no,0,Venmo,Australia Post Courier,3
+13488,47674,20/12/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,1,202.84,6.5,Used,NE30,30,PayPal,StarTrack Express,4
+17757,35288,8/11/2024,GGOEGADJ059713,Google Men's Quilted Insulated Vest Battleship Grey,Apparel,1,30,6,Used,SALE20,20,Credit Card,Australia Post Express,2
+17419,38526,20/09/2024,GGOEGOAR013099,Google Stylus Pen w/ LED Light,Office,10,5.5,6,Not Used,no,0,Credit Card,Australia Post Express,3
+14527,45093,29/11/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,4,119,6.5,Used,ELEC20,20,PayPal,StarTrack Express,4
+13777,17864,14/01/2024,GGOEGADB057316,Google Men's Lightweight Microfleece Jacket Black,Apparel,1,61.89,6.5,Not Used,no,0,Credit Card,Australia Post Express,2
+14606,32209,7/09/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,Credit Card,Australia Post Express,4
+15983,28919,25/05/2024,GGOEYAWJ061449,YouTube Onesie Heather,Apparel,3,19.19,6.5,Used,SALE20,20,Debit Card,StarTrack Express,1
+14723,31086,23/06/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,2,119,6,Used,ELEC30,30,Venmo,Australia Post Courier,3
+13089,46481,12/11/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1,80.52,12.48,Used,ELEC30,30,Debit Card,CouriersPlease,5
+17827,26410,25/04/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Used,ELEC10,10,Credit Card,Australia Post Courier,3
+14985,31123,23/06/2024,GGOEGAAL059013,Google Men's Short Sleeve Performance Badge Tee Navy,Apparel,1,12.31,6,Not Used,no,0,PayPal,StarTrack Express,2
+14341,41750,26/10/2024,GGOEGPJC019099,7&quot; Dog Frisbee,Lifestyle,1,1.5,6,Not Used,no,0,PayPal,StarTrack Express,2
+15005,24950,4/06/2024,GGOEGAYH067925,Google Youth Girl Tee Green,Apparel,1,18.99,6.5,Used,SALE10,10,Debit Card,Australia Post Express,1
+17548,16847,1/03/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,122.77,6.5,Not Used,no,0,Debit Card,Australia Post Express,2
+14156,47411,18/12/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,151.88,6.5,Not Used,no,0,PayPal,StarTrack Express,4
+16030,47145,16/12/2024,GGOENEBQ086799,Nest Thermostat E - USA,Nest,1,100.91,6.5,Not Used,no,0,Credit Card,Australia Post Courier,5
+13725,47949,22/12/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,4,80.52,6.5,Not Used,no,0,Credit Card,StarTrack Express,4
+13092,29784,6/07/2024,GGOEGAAL010616,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1,13.59,6,Used,SALE30,30,Credit Card,StarTrack Express,3
+12395,31492,28/06/2024,GGOEGAEC033117,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1,17.49,6,Used,SALE30,30,PayPal,Australia Post Courier,3
+12683,25463,13/04/2024,GGOEGALP034314,Google Women's Vintage Hero Tee Lavender,Apparel,1,10.63,6,Not Used,no,0,Credit Card,Australia Post Express,2
+17341,24651,4/02/2024,GGOEGBRB013899,Google Laptop Backpack,Bags,1,99.99,6.5,Used,AIO10,10,Credit Card,Australia Post Express,1
+12647,23726,21/03/2024,GGOEGHPA002910,Google Trucker Hat,Headgear,3,21.99,6.5,Not Used,no,0,Credit Card,Australia Post Express,1
+13520,38713,22/09/2024,GGOEAAAJ080814,Android Men's Engineer Short Sleeve Tee Charcoal,Apparel,1,15.99,6,Not Used,no,0,PayPal,Australia Post Courier,2
+14587,36431,23/08/2024,GGOEYAFB073113,YouTube Men's Fleece Hoodie Black,Apparel,1,39.19,30,Used,SALE20,20,PayPal,Toll Priority,1
+16011,27558,5/08/2024,GGOEYAFB073115,YouTube Men's Fleece Hoodie Black,Apparel,1,44.79,6,Used,SALE20,20,Venmo,Australia Post Express,2
+17841,35312,8/11/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2,79,6,Used,ELEC20,20,Credit Card,Australia Post Express,5
+13754,42478,11/03/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,6,79,6,Used,ELEC20,20,PayPal,StarTrack Express,3
+12510,38370,18/09/2024,GGOEGAAJ032814,Google Men's Long & Lean Tee Charcoal,Apparel,1,4.8,6,Used,SALE30,30,Credit Card,Australia Post Courier,4
+12682,33540,24/07/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6,Used,ELEC10,10,Credit Card,Australia Post Express,4
+15224,27265,5/04/2024,GGOEYHPB072210,YouTube Twill Cap,Apparel,1,10.99,6,Used,SALE20,20,Credit Card,Australia Post Courier,3
+17191,22967,15/03/2024,GGOEGOAA017099,Ballpoint Stick Pen 4 Pack,Office,10,3.19,40.25,Used,OFF30,30,PayPal,Toll Priority,3
+17968,17252,1/06/2024,GGOEGOAB015899,Rainbow Stylus Pen,Office,10,1.55,6.5,Used,OFF10,10,PayPal,Australia Post Courier,3
+12766,35409,8/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6,Not Used,no,0,Credit Card,Australia Post Courier,5
+13081,20067,2/09/2024,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Office,1,2.99,6.5,Used,OFF20,20,Credit Card,Australia Post Express,2
+13137,47899,22/12/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,355.74,6.5,Not Used,no,0,PayPal,Australia Post Express,3
+12748,23242,18/03/2024,GGOEGDHR018499,Google 22 oz Water Bottle,Drinkware,10,2.99,6.5,Used,EXTRA30,30,Credit Card,Australia Post Courier,3
+15738,38109,13/09/2024,GGOEYAAJ033016,YouTube Men's Long & Lean Tee Charcoal,Apparel,1,8,44.22,Used,SALE30,30,PayPal,Toll Priority,1
+16043,41985,28/10/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1,149,6,Used,ELEC10,10,Debit Card,StarTrack Express,2
+12567,20426,14/02/2024,GGOEWFKA082999,Waze Baby on Board Window Decal,Waze,1,2.99,6.5,Used,WEMP20,20,Credit Card,Australia Post Courier,2
+14646,38733,22/09/2024,GGOEGAAJ032313,Google Men's Short Sleeve Hero Tee Charcoal,Apparel,1,10.63,6,Used,SALE30,30,Credit Card,Australia Post Courier,2
+17218,27329,5/05/2024,GGOEGAAH034017,Google Men's Vintage Badge Tee Sage,Apparel,1,13.29,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+14978,42202,31/10/2024,GGOEGAXR065155,Google Toddler Short Sleeve Tee Red,Apparel,1,13.59,6,Used,SALE10,10,PayPal,Australia Post Express,2
+14684,27535,5/08/2024,GGOEGAAJ073015,Google Men's Performance Hero Tee Gunmetal,Apparel,1,12.31,6,Used,SALE20,20,Credit Card,Australia Post Courier,1
+17035,45932,12/06/2024,GGOEGAYR068226,Google Youth Short Sleeve Tee Red,Apparel,1,4.84,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+17611,38874,24/09/2024,GGOENEBD084799,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1,149,6,Used,ELEC30,30,PayPal,Australia Post Courier,2
+14565,28141,16/05/2024,GGOEGOXQ016399,Badge Holder,Office,2,1.59,6,Used,OFF20,20,Credit Card,Australia Post Courier,4
+15574,18969,27/01/2024,GGOEWFKA083299,Waze Mood Ninja Window Decal,Waze,2,1.64,6.5,Not Used,no,0,PayPal,Australia Post Courier,1
+15502,21674,3/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2,149,6.5,Not Used,no,0,PayPal,Australia Post Courier,4
+18055,30441,15/06/2024,GGOEYFKQ020699,YouTube Custom Decals,Office,5,1.99,30,Used,OFF30,30,PayPal,Toll Priority,3
+12481,34437,8/02/2024,GGOEGBCR024399,Google Lunch Bag,Bags,4,11.19,106.38,Used,AIO20,20,Credit Card,Toll Priority,2
+12591,42400,11/02/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,349,6,Used,NE20,20,Credit Card,StarTrack Express,4
+15002,23795,22/03/2024,GGOEGOLC013299,Spiral Notebook and Pen Set,Office,2,5.99,6.5,Used,OFF30,30,Credit Card,Australia Post Courier,4
+16252,25168,4/10/2024,GGOEGAYR068224,Google Youth Short Sleeve Tee Red,Apparel,1,15.19,6.5,Used,SALE10,10,PayPal,StarTrack Express,2
+12377,44119,21/11/2024,GGOEGALJ073314,Google Women's Short Sleeve Hero Tee Heather,Apparel,1,15.19,6.5,Used,SALE20,20,Credit Card,Australia Post Express,3
+15719,33912,27/07/2024,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,1,1.11,6,Used,EXTRA10,10,Credit Card,Australia Post Courier,4
+17884,23063,16/03/2024,GGOEGHGT019599,Google Sunglasses,Lifestyle,2,2.8,12.48,Not Used,no,0,Credit Card,CouriersPlease,3
+17967,19475,2/01/2024,GGOEGOAQ018099,Pen Pencil & Highlighter Set,Office,6,3.19,6.5,Used,OFF20,20,Credit Card,Australia Post Express,2
+12423,32441,7/12/2024,GGOEGAWQ062948,Google Baby Essentials Set,Apparel,1,19.03,6,Used,SALE10,10,PayPal,Australia Post Express,1
+17277,39660,10/03/2024,GGOENEBD084799,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1,149,6,Used,ELEC10,10,Credit Card,Australia Post Express,4
+12433,17518,1/10/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used,ELEC10,10,Credit Card,Australia Post Express,4
+14907,23457,20/03/2024,GGOEGAAB010513,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,10,16.99,6.5,Used,SALE30,30,Credit Card,Australia Post Courier,2
+15107,35359,8/11/2024,GGOEGDHR082199,Google 25 oz Red Stainless Steel Bottle,Drinkware,1,11.19,6,Used,EXTRA20,20,Credit Card,Australia Post Courier,2
+18156,20662,17/02/2024,GGOEGAEB084515,BLM Sweatshirt,Apparel,1,33.59,6.5,Used,SALE20,20,Venmo,Australia Post Courier,3
+16745,45849,12/06/2024,GGOENEBQ086499,Nest Cam IQ - USA,Nest,1,202.84,6.5,Used,NE30,30,Debit Card,Australia Post Express,3
+15525,17446,1/09/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used,ELEC10,10,Credit Card,Australia Post Express,5
+16327,43752,17/11/2024,GGOEAAAB034914,Android BTTF Moonshot Graphic Tee,Apparel,1,15.99,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+14646,39558,10/02/2024,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Office,4,2.99,6,Used,OFF10,10,PayPal,Australia Post Express,4
+12681,23432,20/03/2024,GGOEAAAB034814,Android BTTF Cosmos Graphic Tee,Apparel,2,19.99,6.5,Used,SALE30,30,Credit Card,Australia Post Express,2
+14092,32566,13/07/2024,GGOEGALP036315,Google Women's Long Sleeve Tee Lavender,Apparel,1,9.6,6,Not Used,no,0,Cash,Australia Post Express,2
+13769,37999,9/12/2024,GGOEGAAL010614,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,10,13.59,17.84,Used,SALE30,30,Credit Card,Toll Priority,2
+15716,20616,17/02/2024,GGOEGAAQ010414,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,1,13.59,13.78,Not Used,no,0,Credit Card,CouriersPlease,2
+14498,27994,14/05/2024,GGOEGAYL068156,Google Youth Sports Tee Navy,Apparel,1,17.59,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+15498,40701,14/10/2024,GGOEYFKQ020699,YouTube Custom Decals,Office,4,0.8,6,Used,OFF10,10,Venmo,Australia Post Courier,4
+14135,23750,21/03/2024,GGOEGOLC014299,Google Metallic Notebook Set,Office,4,4.79,12.91,Used,OFF30,30,Credit Card,CouriersPlease,3
+15039,45720,12/05/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,121.3,19.99,Used,ELEC30,30,Credit Card,Toll Priority,5
+12841,19416,2/01/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,10,1.99,6.5,Used,OFF20,20,Credit Card,Australia Post Express,5
+15759,30808,20/06/2024,GGOEGAYR068256,Google Youth Short Sleeve Tee Red,Apparel,1,15.19,19.99,Not Used,no,0,Credit Card,Toll Priority,2
+16928,39738,10/03/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC10,10,Credit Card,Australia Post Courier,4
+15107,18695,24/01/2024,GGOEGBFC018799,Electronics Accessory Pouch,Bags,1,4.12,110.74,Used,AIO10,10,PayPal,Toll Priority,2
+17284,34726,8/04/2024,GGOEGAFB035815,Google Men's  Zip Hoodie,Apparel,1,55.99,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+17340,25067,4/07/2024,GGOEGAAJ032816,Google Men's Long & Lean Tee Charcoal,Apparel,1,11.19,6.5,Used,SALE10,10,Credit Card,Australia Post Express,1
+13174,43326,13/11/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3,79,6,Used,ELEC20,20,PayPal,Australia Post Express,3
+13869,31437,28/06/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,12.48,Used,ELEC30,30,Credit Card,CouriersPlease,4
+13473,35835,16/08/2024,GGOEGAAQ033915,Google Men's Vintage Badge Tee White,Apparel,2,5.7,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+15464,33668,25/07/2024,GGOEGOAQ012899,Ballpoint LED Light Pen,Office,20,2.5,6,Used,OFF10,10,Credit Card,Australia Post Courier,2
+12484,34675,8/04/2024,GGOEGAEJ028015,Google Women's Short Sleeve Hero Tee Grey,Apparel,1,4.08,6,Not Used,no,0,Credit Card,Australia Post Express,3
+16395,39072,26/09/2024,GGOENEBQ092299,Nest Secure Alarm System Starter Pack - USA,Nest,1,349,6,Used,NE30,30,Debit Card,StarTrack Express,3
+13649,24989,4/07/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.39,6.5,Not Used,no,0,PayPal,Australia Post Express,4
+14659,43877,19/11/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,PayPal,Australia Post Courier,3
+14298,32079,7/07/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Not Used,no,0,Cash,StarTrack Express,3
+17673,40346,10/10/2024,GGOENEBQ086799,Nest Thermostat E - USA,Nest,1,99,12.99,Used,NE10,10,Credit Card,CouriersPlease,2
+14606,48455,31/12/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3,80.52,6.5,Used,ELEC30,30,Debit Card,Australia Post Courier,4
+14099,31998,7/06/2024,GGOEYFKQ020699,YouTube Custom Decals,Office,1,1.99,6,Used,OFF10,10,Debit Card,Australia Post Express,2
+12417,31279,26/06/2024,GGOEGAER035513,Google Men's Vintage Tank,Apparel,1,14.69,6,Used,SALE30,30,Cash,Australia Post Express,2
+14419,26361,25/04/2024,GGOEYAAJ032515,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,1,18.99,6,Used,SALE10,10,Credit Card,Australia Post Courier,2
+16274,17786,13/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used,ELEC10,10,Credit Card,StarTrack Express,4
+17884,23068,17/03/2024,GGOEGADB056914,Google Men's Performance Full Zip Jacket Black,Apparel,1,67.19,6.5,Not Used,no,0,Credit Card,Australia Post Express,1
+15719,47358,18/12/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,3,121.3,6.5,Used,ELEC30,30,Credit Card,StarTrack Express,5
+15708,20321,13/02/2024,GGOEGBJC019999,Collapsible Shopping Bag,Bags,6,4.99,6.5,Used,AIO20,20,Credit Card,Australia Post Courier,4
+15827,18586,23/01/2024,GGOEGDWR015799,Red Shine 15 oz Mug,Drinkware,1,13.4,6.5,Used,EXTRA10,10,PayPal,Australia Post Courier,4
+16029,19170,30/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used,ELEC10,10,Credit Card,StarTrack Express,4
+16985,30345,13/06/2024,GGOEGAAB010517,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,3,16.99,19.99,Used,SALE30,30,PayPal,Toll Priority,2
+18077,41097,18/10/2024,GGOEGAPB057516,Women's Weatherblock Shell Jacket Black,Apparel,1,46.5,6,Used,SALE10,10,Credit Card,Australia Post Courier,1
+17007,31387,27/06/2024,GGOEGOCR017899,Recycled Paper Journal Set,Office,50,3.19,20.33,Used,OFF30,30,Debit Card,Toll Priority,3
+13173,23913,23/03/2024,GGOEGAAQ010415,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,8,13.59,12.48,Used,SALE30,30,Credit Card,CouriersPlease,4
+14911,26686,28/04/2024,GGOEGAEQ027915,Google Women's Short Sleeve Hero Tee White,Apparel,1,16.99,12.99,Used,SALE10,10,Debit Card,CouriersPlease,2
+12748,24820,4/05/2024,GGOEGAER033217,Google Men's Long Sleeve Raglan Cranberry,Apparel,1,17.49,6.5,Not Used,no,0,PayPal,Australia Post Courier,2
+14189,41740,26/10/2024,GGOEGCKQ084999,Emoji Sticker Sheet,Accessories,1,4.99,6,Used,ACC10,10,PayPal,Australia Post Courier,3
+17596,22418,3/08/2024,GGOEYOCR077799,YouTube Hard Cover Journal,Notebooks & Journals,1,14.99,6.5,Used,NJ30,30,Credit Card,Australia Post Courier,1
+17450,35883,17/08/2024,GGOEGAEJ028114,Google Women's Short Sleeve Badge Tee Grey,Apparel,2,4.08,6,Used,SALE20,20,PayPal,Australia Post Courier,3
+12427,19437,2/01/2024,GGOEGAAB010516,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1,16.99,6.5,Used,SALE20,20,Credit Card,Australia Post Courier,3
+14298,41156,19/10/2024,GGOEGGOA017399,Maze Pen,Office,1,0.99,6,Not Used,no,0,Venmo,Australia Post Express,3
+17796,44318,23/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+15626,37024,30/08/2024,GGOEGAEQ027913,Google Women's Short Sleeve Hero Tee White,Apparel,1,13.59,6,Used,SALE20,20,PayPal,StarTrack Express,2
+14669,36070,19/08/2024,GGOEGALL074613,Google Women's Short Sleeve Badge Tee Navy,Apparel,1,6.8,6,Used,SALE20,20,Credit Card,StarTrack Express,3
+15379,34019,28/07/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,2,2.99,6,Used,OFF10,10,Credit Card,Australia Post Courier,3
+17841,44518,25/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+12539,42864,11/08/2024,GGOEGADJ057118,Google Men's Performance 1/4 Zip Pullover Heather/Black,Apparel,1,27.5,6,Not Used,no,0,PayPal,Australia Post Express,1
+15034,33712,25/07/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Used,ELEC10,10,Debit Card,Australia Post Courier,3
+17211,32473,7/12/2024,GGOEGAEA030413,Google Womens 3/4 Sleeve Baseball Raglan Heather/Black,Apparel,1,11.19,6,Used,SALE10,10,Debit Card,Australia Post Courier,2
+15882,22694,13/03/2024,GGOEGFKA022299,Keyboard DOT Sticker,Office,40,1.5,294,Used,OFF30,30,Debit Card,Toll Priority,4
+17863,21188,23/02/2024,GGOEGOAB012999,Ballpoint Pen & Matching Tube Case,Office,1,3.5,6.48,Used,OFF20,20,Credit Card,Australia Post Courier,3
+14708,22311,3/07/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC30,30,Debit Card,Australia Post Express,3
+14541,43398,14/11/2024,GGOEAFKA087499,Android Small Removable Sticker Sheet,Accessories,1,2.39,48.59,Used,ACC20,20,PayPal,Toll Priority,1
+15525,17459,1/09/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,5,153.71,6.5,Used,ELEC10,10,Credit Card,Australia Post Courier,5
+17284,34770,8/05/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,12.99,Used,ELEC20,20,PayPal,CouriersPlease,4
+15339,41507,23/10/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1,79,6,Used,ELEC10,10,PayPal,StarTrack Express,5
+14298,32076,7/07/2024,GGOEGFSR022099,Google Kick Ball,Lifestyle,2,1.59,58.93,Used,EXTRA10,10,Credit Card,Toll Priority,3
+18069,37553,9/06/2024,GGOEYAAB031815,YouTube Men's Short Sleeve Hero Tee Black,Apparel,2,13.59,12.48,Not Used,no,0,PayPal,CouriersPlease,3
+12681,23432,20/03/2024,GGOEGAEJ035313,Google Vintage Henley Grey/Black,Apparel,2,29.99,6.5,Not Used,no,0,Credit Card,Australia Post Express,3
+15716,20625,17/02/2024,GGOEGADB057315,Google Men's Lightweight Microfleece Jacket Black,Apparel,1,59.99,6.5,Not Used,no,0,Credit Card,Australia Post Express,1
+15808,28462,19/05/2024,GGOEGAAQ010414,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,2,16.99,6,Used,SALE20,20,Credit Card,Australia Post Express,3
+15167,40070,10/08/2024,GGOEGFKQ020799,Google Doodle Decal,Office,1,2.39,6,Used,OFF10,10,Credit Card,StarTrack Express,2
+12502,47108,16/12/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,121.3,6.5,Used,ELEC30,30,Credit Card,StarTrack Express,3
+13093,36772,28/08/2024,GGOEGDHC074099,Google 17oz Stainless Steel Sport Bottle,Drinkware,1,16.79,6,Used,EXTRA20,20,Credit Card,Australia Post Express,2
+17811,35552,14/08/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Not Used,no,0,Credit Card,Australia Post Express,5
+16221,23785,21/03/2024,GGOEGOXQ016399,Badge Holder,Office,44,1.99,6.5,Not Used,no,0,Credit Card,StarTrack Express,2
+17629,29505,6/03/2024,GGOEGAAJ080615,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1,15.99,6,Used,SALE30,30,Credit Card,Australia Post Express,4
+14659,43869,19/11/2024,GGOEGAEC090715,Google Tee Blue,Apparel,1,17.59,6.5,Used,SALE20,20,PayPal,Australia Post Courier,1
+17967,19456,2/01/2024,GGOEGOAA017099,Ballpoint Stick Pen 4 Pack,Office,25,3.99,64.01,Used,OFF20,20,PayPal,Toll Priority,3
+17954,37304,9/03/2024,GGOEGAAH034017,Google Men's Vintage Badge Tee Sage,Apparel,1,5.7,6,Not Used,no,0,PayPal,Australia Post Express,1
+12748,26488,26/04/2024,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Bags,1,12.79,6,Used,AIO10,10,Credit Card,Australia Post Express,4
+15044,32577,13/07/2024,GGOEGAAB058916,Google Men's Short Sleeve Performance Badge Tee Black,Apparel,1,15.39,6,Used,SALE10,10,Credit Card,StarTrack Express,1
+15454,27702,5/10/2024,GGOEGAAB033816,Google Men's Vintage Badge Tee Black,Apparel,1,10.63,6,Not Used,no,0,Credit Card,Australia Post Express,1
+17277,39639,10/03/2024,GGOENEBQ079099,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,2,79,12.99,Not Used,no,0,Debit Card,CouriersPlease,4
+18229,37049,30/08/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Not Used,no,0,PayPal,StarTrack Express,3
+15570,37204,9/01/2024,GGOEYAAJ032514,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,75,18.99,6,Used,SALE30,30,Credit Card,Australia Post Courier,3
+14032,28599,22/05/2024,GGOEGAPB058214,Google Women's Lightweight Microfleece Jacket,Apparel,1,59.99,6,Used,SALE20,20,PayPal,StarTrack Express,3
+14800,34969,8/08/2024,GGOEGBRJ037299,Google Alpine Style Backpack,Bags,2,99.99,12.99,Used,AIO20,20,Credit Card,CouriersPlease,2
+15808,48393,30/12/2024,GGOENEBQ093499,Nest Detect - USA,Nest,5,49.95,6.5,Not Used,no,0,Credit Card,Australia Post Express,3
+17337,47038,15/12/2024,GGOEGBRJ037299,Google Alpine Style Backpack,Bags,6,81.53,13.38,Used,AIO30,30,Credit Card,CouriersPlease,5
+17841,42485,11/03/2024,GGOEGHPB071610,Google Twill Cap,Apparel,1,10.99,6,Used,SALE20,20,Credit Card,StarTrack Express,5
+17954,37311,9/03/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Used,ELEC30,30,Credit Card,Australia Post Courier,5
+13487,32506,7/12/2024,GGOEGAAJ057015,Google Men's Short Sleeve Performance Badge Tee Charcoal,Apparel,1,13.2,6,Used,SALE10,10,Credit Card,Australia Post Express,3
+14307,38828,23/09/2024,GGOEAAAJ031913,Android Men's Short Sleeve Hero Tee Heather,Apparel,3,4.56,6,Used,SALE30,30,Credit Card,Australia Post Express,3
+15503,27120,5/03/2024,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Office,10,1.99,6,Not Used,no,0,Credit Card,Australia Post Express,4
+14505,27838,5/12/2024,GGOEYAAB031815,YouTube Men's Short Sleeve Hero Tee Black,Apparel,1,16.99,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+15574,18993,27/01/2024,GGOENEBB079399,Nest Protect Smoke + CO Black Wired Alarm-USA,Nest-USA,1,102.13,6.5,Used,ELEC10,10,PayPal,Australia Post Courier,2
+17284,34769,8/05/2024,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Bags,1,15.99,6,Used,AIO20,20,Credit Card,Australia Post Courier,4
+16919,22552,3/10/2024,GGOEAAWC062449,Android Infant Short Sleeve Tee Aqua,Apparel,1,13.59,6.5,Used,SALE30,30,Credit Card,Australia Post Express,2
+13709,44049,21/11/2024,GGOEGAEL091314,Google Crew Sweater Navy,Apparel,1,41.59,6.5,Not Used,no,0,PayPal,Australia Post Express,3
+16161,46355,12/10/2024,GGOENEBQ086799,Nest Thermostat E - USA,Nest,1,100.91,6.5,Not Used,no,0,Credit Card,StarTrack Express,4
+15708,20319,13/02/2024,GGOEGDHQ014899,20 oz Stainless Steel Insulated Tumbler,Drinkware,1,19.99,6.5,Not Used,no,0,Credit Card,Australia Post Courier,3
+17091,38556,20/09/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.99,6,Used,OFF30,30,Credit Card,Australia Post Courier,4
+14737,32467,7/12/2024,GGOEGALQ036614,Google Women's Scoop Neck Tee White,Apparel,4,4.8,12.48,Not Used,no,0,Credit Card,CouriersPlease,3
+15687,36901,29/08/2024,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,50,2.99,6,Not Used,no,0,Credit Card,Australia Post Courier,2
+13999,39678,10/03/2024,GGOEGALJ073314,Google Women's Short Sleeve Hero Tee Heather,Apparel,2,15.19,12.48,Used,SALE10,10,PayPal,CouriersPlease,2
+14525,28561,21/05/2024,GGOEGAWQ062948,Google Baby Essentials Set,Apparel,1,27.19,6,Not Used,no,0,Credit Card,StarTrack Express,2
+16770,44416,24/11/2024,GGOEGAEL091316,Google Crewneck Sweatshirt Navy,Apparel,1,41.59,6.5,Used,SALE20,20,PayPal,StarTrack Express,1
+17511,45678,12/05/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,151.88,6.5,Not Used,no,0,Credit Card,Australia Post Express,5
+12748,32526,13/07/2024,GGOEAAYJ068856,Android Youth Short Sleeve T-shirt Pewter,Apparel,1,18.99,6,Used,SALE10,10,PayPal,Australia Post Express,3
+15882,22680,3/12/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Not Used,no,0,Credit Card,Australia Post Express,4
+14092,30831,20/06/2024,GGOEGAAL010614,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1,13.59,6,Not Used,no,0,PayPal,StarTrack Express,1
+15281,35775,16/08/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,119,6,Used,ELEC20,20,Credit Card,StarTrack Express,5
+18055,20185,2/11/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6.5,Used,ELEC20,20,Credit Card,Australia Post Courier,5
+18069,37575,9/06/2024,GGOEAAWT061750,Android Onesie Gold,Apparel,1,19.19,12.99,Used,SALE30,30,Credit Card,CouriersPlease,2
+17999,25033,4/07/2024,GGOEGHPB071610,Google Twill Cap,Apparel,1,8.79,6.5,Used,SALE10,10,Credit Card,Australia Post Express,3
+12388,37730,9/08/2024,GGOEGOCL077699,Google Hard Cover Journal,Notebooks & Journals,2,11.99,6.5,Not Used,no,0,Credit Card,StarTrack Express,4
+15299,19105,29/01/2024,GGOEGBJC019999,Collapsible Shopping Bag,Bags,52,3.96,6.5,Not Used,no,0,Debit Card,Australia Post Courier,4
+17890,28364,19/05/2024,GGOEGAER035513,Google Men's Vintage Tank,Apparel,1,11.75,6,Used,SALE20,20,PayPal,StarTrack Express,2
+17551,29956,6/09/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Not Used,no,0,PayPal,StarTrack Express,3
+15485,17510,1/09/2024,GGOEYAEA035114,YouTube Men's Vintage Henley,Apparel,1,30.94,6.5,Used,SALE10,10,Credit Card,Australia Post Courier,2
+17671,25854,18/04/2024,GGOEGOCB017499,Leatherette Journal,Office,1,10.99,6,Used,OFF10,10,PayPal,Australia Post Courier,4
+16567,34379,8/01/2024,GGOEGBMJ013399,Sport Bag,Bags,1,4.99,6,Used,AIO20,20,Credit Card,Australia Post Express,3
+17243,31604,29/06/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,149,6,Not Used,no,0,Credit Card,Australia Post Express,4
+17889,39904,10/05/2024,GGOENEBQ086799,Nest Thermostat E - USA,Nest,2,99,6,Used,NE10,10,PayPal,Australia Post Courier,4
+12868,43216,11/12/2024,GGOEGAAB010513,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1,13.59,6,Used,SALE20,20,Credit Card,Australia Post Courier,1
+16016,24605,4/01/2024,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,3,149,6.5,Not Used,no,0,PayPal,StarTrack Express,5
+14606,32889,17/07/2024,GGOEGALJ034417,Google Women's Vintage Hero Tee Platinum,Apparel,1,4.56,6,Not Used,no,0,Credit Card,StarTrack Express,1
+17841,40247,10/10/2024,GGOEGHGC019799,Google Sunglasses,Lifestyle,6,3.5,6,Used,EXTRA10,10,Credit Card,StarTrack Express,5
+13767,18806,25/01/2024,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,122.77,6.5,Not Used,no,0,Cash,Australia Post Express,3
+15078,22430,3/09/2024,GGOEGAFB035814,Google Men's  Zip Hoodie,Apparel,2,44.79,13.78,Used,SALE30,30,Credit Card,CouriersPlease,3
+13488,47675,20/12/2024,GGOEAKDH019899,Windup Android,Lifestyle,1,4.07,6,Not Used,no,0,Credit Card,Australia Post Courier,3
+12484,34653,8/04/2024,GGOEGALQ036614,Google Women's Scoop Neck Tee White,Apparel,1,4.8,6,Used,SALE20,20,PayPal,Australia Post Courier,1
+15596,37969,9/12/2024,GGOEGGOA017399,Maze Pen,Office,50,0.79,34.75,Not Used,no,0,PayPal,Toll Priority,3
+13013,19618,2/03/2024,GGOEGAYC068324,Google Youth Short Sleeve T-shirt Royal Blue,Apparel,1,15.19,6.5,Used,SALE20,20,PayPal,Australia Post Express,2
+14133,43738,17/11/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1,79,6,Used,ELEC20,20,PayPal,Australia Post Express,2
+17236,41458,23/10/2024,GGOEGFKQ020799,Google Doodle Decal,Office,1,2.39,12.91,Used,OFF10,10,Credit Card,CouriersPlease,4
+16771,33533,24/07/2024,GGOEGOAQ012899,Ballpoint LED Light Pen,Office,40,2,6,Used,OFF10,10,Credit Card,Australia Post Courier,3
+15213,37076,31/08/2024,GGOEGAEJ028013,Google Women's Short Sleeve Hero Tee Grey,Apparel,2,4.08,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+17841,17695,1/12/2024,GGOEGAEC029114,Google Women's Short Sleeve Hero Tee Sky Blue,Apparel,1,15.67,62.74,Used,SALE10,10,Debit Card,Toll Priority,2
+14467,45120,29/11/2024,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,50,2.99,6,Used,OFF20,20,PayPal,Australia Post Express,3
+15563,30384,14/06/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3,79,6,Used,ELEC30,30,PayPal,StarTrack Express,3
+14298,32093,7/07/2024,GGOEGADB057313,Google Men's Lightweight Microfleece Jacket Black,Apparel,1,74.99,6,Used,SALE10,10,PayPal,Australia Post Courier,3
+16520,25634,15/04/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,3,119,6,Used,ELEC10,10,Credit Card,Australia Post Express,5
+13963,40416,10/11/2024,GGOEGHGR019499,Google Sunglasses,Lifestyle,30,2.8,140.68,Not Used,no,0,Credit Card,Toll Priority,3
+18016,27058,5/02/2024,GGOEGBMB073599,Google Collapsible Duffel Black,More Bags,4,17.59,12.48,Used,ELEC10,10,Debit Card,CouriersPlease,3
+17035,45935,12/07/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,121.3,12.99,Not Used,no,0,Credit Card,CouriersPlease,3
+14298,29007,27/05/2024,GGOEGOAQ020099,Four Color Retractable Pen,Office,1,2.99,6,Used,OFF20,20,Credit Card,Australia Post Express,4
+16985,30350,13/06/2024,GGOEGAAJ080614,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1,15.99,6,Not Used,no,0,Credit Card,Australia Post Courier,4
+12708,37007,30/08/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,1,119,12.99,Used,ELEC20,20,Credit Card,CouriersPlease,5
+18118,26664,28/04/2024,GGOEYAAJ032513,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,1,18.99,6,Not Used,no,0,PayPal,Australia Post Courier,2
+14156,47401,18/12/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,121.3,6.5,Used,ELEC30,30,Credit Card,Australia Post Express,5
+15570,37204,9/01/2024,GGOEYAYR068624,YouTube Youth Short Sleeve Tee Red,Apparel,7,18.99,6,Used,SALE30,30,Credit Card,Australia Post Courier,2
+12585,33598,24/07/2024,GGOEGBRD079699,25L Classic Rucksack,Backpacks,1,79.99,6,Used,ELEC10,10,Credit Card,StarTrack Express,2
+17337,46941,14/12/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,2,80.52,6.5,Not Used,no,0,Debit Card,Australia Post Courier,4
+15061,29771,6/07/2024,GGOEGAAJ080614,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1,19.99,6,Used,SALE30,30,Credit Card,StarTrack Express,2
+14723,31083,23/06/2024,GGOEGAAB010514,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1,13.59,6,Not Used,no,0,Debit Card,Australia Post Courier,4
+14911,25508,13/04/2024,GGOEGAAJ032814,Google Men's Long & Lean Tee Charcoal,Apparel,1,13.99,6,Not Used,no,0,PayPal,Australia Post Courier,3
+12870,24938,4/06/2024,GGOEGAYQ068956,Google Youth Girl Hoodie,Apparel,1,24.64,14.41,Used,SALE10,10,PayPal,CouriersPlease,3
+14901,24353,29/03/2024,GGOEGHPB080410,Google 5-Panel Snapback Cap,Headgear,5,18.99,6.5,Not Used,no,0,PayPal,Australia Post Express,2
+15226,46541,12/12/2024,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,121.3,6.5,Not Used,no,0,PayPal,StarTrack Express,4
+17913,31617,30/06/2024,GGOEGAWR061148,Google Onesie Red,Apparel,1,19.19,6.5,Not Used,no,0,PayPal,StarTrack Express,3
+15032,24751,4/04/2024,GGOEGAAJ073014,Google Men's Performance Hero Tee Gunmetal,Apparel,1,12.31,6.5,Used,SALE10,10,PayPal,StarTrack Express,1
+12766,35403,8/11/2024,GGOEGAAH034015,Google Men's Vintage Badge Tee Sage,Apparel,1,4.56,6,Used,SALE20,20,Cash,StarTrack Express,3
+12708,37004,30/08/2024,GGOEAAAL081113,Android Men's Pep Rally Short Sleeve Tee Navy,Apparel,1,8,6,Used,SALE20,20,Credit Card,Australia Post Courier,2
+16923,43496,15/11/2024,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,3,79,6,Used,ELEC20,20,PayPal,Australia Post Express,5
+14440,42753,11/06/2024,GGOENEBD084799,Nest Learning Thermostat 3rd Gen-USA - Copper,Nest-USA,1,149,6,Used,ELEC20,20,Credit Card,Australia Post Courier,3
+15044,32579,13/07/2024,GGOENEBQ084699,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,3,149,6,Used,ELEC10,10,Credit Card,Australia Post Courier,3
