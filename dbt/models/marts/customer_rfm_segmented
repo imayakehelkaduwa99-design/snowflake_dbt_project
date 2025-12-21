@@ -1,0 +1,24 @@
+{{ config(materialized='table') }}
+
+with rfm as (
+    select *
+    from {{ ref('customer_rfm_v2') }}
+),
+
+segmented as (
+    select
+        CUSTOMER_ID,
+        RECENCY,
+        FREQUENCY,
+        MONETARY,
+
+        case
+            when RECENCY <= 30 and FREQUENCY >= 5 and MONETARY >= 1000 then 'VIP'
+            when RECENCY <= 90 and FREQUENCY >= 3 then 'Active'
+            when RECENCY > 180 then 'Churn Risk'
+            else 'Others'
+        end as CUSTOMER_SEGMENT
+    from rfm
+)
+
+select * from segmented
