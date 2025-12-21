@@ -1,0 +1,23 @@
+{{ config(materialized='table') }}
+
+with revenue as (
+    select CUSTOMER_ID, sum(NET_REVENUE) as TOTAL_REVENUE
+    from {{ ref('fct_transactions') }}
+    group by 1
+),
+
+rfm as (
+    select *
+    from {{ ref('customer_rfm_v2') }}
+)
+
+select
+    rfm.CUSTOMER_ID,
+    rfm.RECENCY,
+    rfm.FREQUENCY,
+    rfm.MONETARY,
+    revenue.TOTAL_REVENUE,
+    revenue.TOTAL_REVENUE * 0.25 as ESTIMATED_LTV
+from rfm
+join revenue
+    on rfm.CUSTOMER_ID = revenue.CUSTOMER_ID
