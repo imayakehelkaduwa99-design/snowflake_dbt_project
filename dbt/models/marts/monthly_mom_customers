@@ -1,0 +1,25 @@
+{{ config(materialized='table') }}
+
+with active_customers as (
+    select
+        date_trunc('month', to_date(TRANSACTION_DATE, 'DD/MM/YYYY')) as MONTH,
+        count(distinct CUSTOMER_ID) as active_customers
+    from PROJECT1_ANALYTICS.dbt_ikehelkaduwa.fct_transactions
+    group by 1
+),
+
+mom as (
+    select
+        a1.MONTH,
+        a1.active_customers,
+        a2.active_customers as prev_active_customers,
+        (a1.active_customers - a2.active_customers) as customer_change,
+        ((a1.active_customers - a2.active_customers) / nullif(a2.active_customers,0)) as customer_growth_rate
+    from active_customers a1
+    left join active_customers a2
+        on a2.MONTH = dateadd('month', -1, a1.MONTH)
+)
+
+select *
+from mom
+order by MONTH
