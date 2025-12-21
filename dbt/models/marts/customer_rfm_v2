@@ -1,0 +1,26 @@
+{{ config(materialized='table') }}
+
+with base as (
+    select
+        CUSTOMER_ID,
+
+        -- convert to real date
+        TO_DATE(LAST_PURCHASE_DATE, 'DD/MM/YYYY') AS LAST_PURCHASE_DATE,
+
+        TOTAL_TRANSACTIONS,
+        TOTAL_SPEND
+    from {{ ref('customer_360') }}
+),
+
+r as (
+    select
+        CUSTOMER_ID,
+
+        datediff('day', LAST_PURCHASE_DATE, current_date()) as RECENCY,
+
+        TOTAL_TRANSACTIONS as FREQUENCY,
+        TOTAL_SPEND as MONETARY
+    from base
+)
+
+select * from r
