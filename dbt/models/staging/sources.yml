@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: raw_sales
+    database: PROJECT1_ANALYTICS
+    schema: DBT_IKEHELKADUWA
+    description: "Raw source data for customer and transaction records"
+
+    tables:
+      - name: customers
+        description: "Raw customer master data from source system"
+
+      - name: transactions
+        description: "Raw transaction-level sales data"
