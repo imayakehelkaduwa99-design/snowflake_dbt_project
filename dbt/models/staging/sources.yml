@@ -12,3 +12,4 @@ sources:
 
       - name: transactions
         description: "Raw transaction-level sales data"
+
