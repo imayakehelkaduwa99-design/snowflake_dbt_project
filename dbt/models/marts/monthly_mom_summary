@@ -1,0 +1,24 @@
+{{ config(materialized='table') }}
+
+with revenue as (
+    select *
+    from {{ ref('monthly_mom_revenue') }}
+),
+
+customers as (
+    select *
+    from {{ ref('monthly_mom_customers') }}
+)
+
+select
+    r.MONTH,
+    r.total_revenue,
+    r.prev_month_revenue,
+    r.mom_growth_rate as revenue_growth_rate,
+    c.active_customers,
+    c.prev_active_customers,
+    c.customer_growth_rate
+from revenue r
+left join customers c
+    on r.MONTH = c.MONTH
+order by r.MONTH
