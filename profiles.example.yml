@@ -1,0 +1,13 @@
+snowflake_dbt_project:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: YOUR_ACCOUNT_LOCATOR
+      user: YOUR_USERNAME
+      password: REDACTED
+      role: ACCOUNTADMIN
+      database: PORTFOLIO_DBT
+      warehouse: COMPUTE_WH
+      schema: ANALYTICS
+      threads: 4
